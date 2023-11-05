@@ -1,0 +1,3 @@
+gtd_1970_2020.xlsx: Contains the Global Terrorism Database for years 1970-2020. The data for 1993 is missing because it was lost during the physical to digital transition.
+
+gtd_Jan_June_2021.xlsx: Contains the Global Terrorism Database for January to June 2021.
