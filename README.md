@@ -6,7 +6,7 @@
   * Contact person: TODO@andrew.cmu.edu
   * TODO@andrew.cmu.edu
   * TODO@andrew.cmu.edu
-  * TODO@andrew.cmu.edu
+  * pochunch@andrew.cmu.edu
 
 ## Work distribution
 
