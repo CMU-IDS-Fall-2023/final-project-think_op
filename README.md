@@ -3,7 +3,7 @@
 
 * **Online URL**: TODO
 * **Team members**:
-  * Contact person: TODO@andrew.cmu.edu
+  * Contact person: moukhikm@andrew.cmu.edu
   * gpastran@andrew.cmu.edu
   * pgarge@andrew.cmu.edu
   * pochunch@andrew.cmu.edu
