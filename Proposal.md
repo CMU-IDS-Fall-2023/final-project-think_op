@@ -22,3 +22,10 @@ Clustering: To find similarities between different regions, we plan to use clust
 
 Visualizations: The application will provide dynamic visualizations such as heatmaps of terrorist activity, line graphs of refugee trends, and geographical maps with overlays showing terrorism and refugee data simultaneously. Users will be able to interact with these visualizations to gain a deeper understanding of the data.
 
+## Sketches and Data Analysis
+
+### System Design
+For the global terrorism dataset, we would have an interactive map that could be adjusted to display whichever time window, countries, and other attributes of attacks the user selected. We would also have a pie chart displaying the composition of attributes the user chose and a line graph incorporating a forecasting model to display the number of past attacks and predictions for future attack counts.
+![Sketch1](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/sketch1.png) \
+For the global refugee dataset, we would include a Sankey Diagram to better illustrate the flow of refugees. As for the correlation between the terrorism data and refugee data, we would include a heatmap for the refugee count and terrorist attack count to examine their relationships, as well as a simple bar chart with two bars per country that represent the two quantities.
+![Sketch2](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/sketch2.png)
