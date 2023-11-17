@@ -24,6 +24,8 @@ Visualizations: The application will provide dynamic visualizations such as heat
 
 ## Sketches and Data Analysis
 ### Data processing and Analysis
+The datasets are pretty clean, so we just had to perform minimal data cleaning. That meant handling exceptions and missing values. Most of the exceptions had to do with country names and the missing values were because there was no data. 
+We are mainly interested in observing the possible interactions between refugee movement and terrorism. For this matter we analyzed how these two occurrences have fluctuated and how variables such as location, people killed, time, motives, types and many others are distributed in the dataset.
 
 ##### Overall Statistics
 
