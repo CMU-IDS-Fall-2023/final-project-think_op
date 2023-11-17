@@ -51,7 +51,7 @@ The following Sunburst plot shows the types of targets that were hit by the terr
 
 #### Perpetrators of Attacks
 
-The following bar plot shows the terrorist organizations that committed the most number of terrorist acts. However, for around 93000+ attacks, the responsible party was "Unknown". There are also additional fields such as whether the organizations officially claimed responsibility, etc./ but they have not been factored into this graph. How the activity of the different groups has changed over time and their sphere of influence has to be studied by plotting their attacks separately against year and with geospatial mapping respectively. 
+The following bar plot shows the terrorist organizations that committed the most number of terrorist acts. However, for around 93000+ attacks, the responsible party was "Unknown". There are also additional fields such as whether the organizations officially claimed responsibility, etc. but they have not been factored into this graph. How the activity of the different groups has changed over time and their sphere of influence has to be studied by plotting their attacks separately against year and with geospatial mapping respectively. According to the plot, the highest ranking terrorist organizations are Taliban (Afghanistan), ISIL (also known as ISIS), Shining Path (officially the Communist Party of Peru), Al-Shabaab (a Somalian militant group affiliated to Al-Qaeda), etc.  
 
 ![Perpetrator_org](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/perpetrators.png)
 
