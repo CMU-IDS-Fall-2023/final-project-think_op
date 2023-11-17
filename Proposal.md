@@ -23,6 +23,44 @@ Clustering: To find similarities between different regions, we plan to use clust
 Visualizations: The application will provide dynamic visualizations such as heatmaps of terrorist activity, line graphs of refugee trends, and geographical maps with overlays showing terrorism and refugee data simultaneously. Users will be able to interact with these visualizations to gain a deeper understanding of the data.
 
 ## Sketches and Data Analysis
+### Data processing and Analysis
+
+##### Overall Statistics
+
+![Total_incidents](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/total_incidents.png)
+
+![Total_refugees](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/RF_total.png)
+
+##### Targets of Attacks
+
+![Target_countries](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/vic_countries.png)
+
+![Target_type](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/targettype_sunburst.png)
+
+##### Perpetrators of Attacks
+
+![Perpetrator_org](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/perpetrators.png)
+
+![Motive](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/motive_wc.png)
+
+##### Details of Attacks
+
+![Attack_type](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/attack_type.png)
+
+![Weapon_type](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/weapon_type_sunburst.png)
+
+##### Casualties
+
+![Casualty_Map](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/nkill_map.png)
+
+##### Refugee Flow
+
+![Refugee_Country_of_origin](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/Rf_co.png)
+
+![Refugee_Country_of_asylum](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/Rf_ca.png)
+
+![Refugee_flow](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/RF_flow.png)
+
 
 ### System Design
 For the global terrorism dataset, we would have an interactive map that could be adjusted to display whichever time window, countries, and other attributes of attacks the user selected. We would also have a pie chart displaying the composition of attributes the user chose and a line graph incorporating a forecasting model to display the number of past attacks and predictions for future attack counts.
