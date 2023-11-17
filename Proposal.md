@@ -23,7 +23,7 @@ Clustering: To find similarities between different regions, we plan to use clust
 Visualizations: The application will provide dynamic visualizations such as heatmaps of terrorist activity, line graphs of refugee trends, and geographical maps with overlays showing terrorism and refugee data simultaneously. Users will be able to interact with these visualizations to gain a deeper understanding of the data.
 
 ## Sketches and Data Analysis
-### Data processing and Analysis
+### Data Processing and Exploration
 The datasets are pretty clean, so we just had to perform minimal data cleaning. That meant handling exceptions and missing values. Most of the exceptions had to do with country names and the missing values were because there was no data. 
 We are mainly interested in observing the possible interactions between refugee movement and terrorism. For this matter we analyzed how these two occurrences have fluctuated and how variables such as location, people killed, time, motives, types and many others are distributed in the dataset.
 
