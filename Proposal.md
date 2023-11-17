@@ -43,7 +43,7 @@ The number of refugees under UN mandate also shows an upward trend.
 
 ![Target_countries](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/vic_countries.png)
 
-The highest number of terrorist attacks occured in Iraq, Afghanistan, Pakistan, India, and Colombia. However, we need to remember that this data is only till mid-2021. All the attacks that occured after that are not reflected in the plot.
+The highest number of terrorist attacks occured in Iraq, Afghanistan, Pakistan, India, and Colombia. However, we need to remember that this data is only till mid-2021. All the attacks that occured after that are not reflected in the plot. It will also be interesting to explore the "INT_LOG" variable which captures whether the nationality of the Perpetrator group and the location of attack were different. It will shows the pattern of cross-border terrorism. We can also classify organizations based on whether they are only involved in insurgency.
 
 The following Sunburst plot shows the types of targets that were hit by the terrorists. We prominently see Private citizens and properties, military, police, governments, and businesses.
 
@@ -77,7 +77,12 @@ This map shows the number of casualties for each geographical region. The bubble
 
 #### Refugee Flow
 
+
+Most of the refugees were uprooted from Afghanistan probably due to the situation with Taliban. The second country where we see poeple migrating from is Syria (due to the civil war).
+
 ![Refugee_Country_of_origin](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/Rf_co.png)
+
+The highest number of refugees went to Pakistan. These were probably majorly from Afghanistan as Pakistan borders Afghanistan. However, this dataset is only till 2021. Currently in November 2023, Pakistan is evacuating all Afghan/Pashtun people (legal and illegal) back to Afghanistan. Due to this geopolitical development, the following plot will not look the same after 2023. The second highest asylum giving country is Iran, however, we do not know from this plot where they came from. That information can be obtained from the Sankey diagram that follows. This Sankey diagram is only a fraction of the complete pairs of Origin and Asylum countries. We should also keep in mind that this plot of total number of migrations does not reflect the effect of refugee movement by itself because the original size and population of the origin and asylum country also has to be taken into consideration.
 
 ![Refugee_Country_of_asylum](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/Rf_ca.png)
 
