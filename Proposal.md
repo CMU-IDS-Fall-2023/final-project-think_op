@@ -27,35 +27,55 @@ Visualizations: The application will provide dynamic visualizations such as heat
 The datasets are pretty clean, so we just had to perform minimal data cleaning. That meant handling exceptions and missing values. Most of the exceptions had to do with country names and the missing values were because there was no data. 
 We are mainly interested in observing the possible interactions between refugee movement and terrorism. For this matter we analyzed how these two occurrences have fluctuated and how variables such as location, people killed, time, motives, types and many others are distributed in the dataset.
 
-##### Overall Statistics
+Let's explore the datasets.
+
+#### Overall Statistics
 
 ![Total_incidents](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/total_incidents.png)
 
+The above plot shows that the number of terrorist incidents has increased tremendously in the last decade.
+
 ![Total_refugees](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/RF_total.png)
 
-##### Targets of Attacks
+The number of refugees under UN mandate also shows an upward trend.
+
+#### Targets of Attacks
 
 ![Target_countries](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/vic_countries.png)
 
+The highest number of terrorist attacks occured in Iraq, Afghanistan, Pakistan, India, and Colombia. However, we need to remember that this data is only till mid-2021. All the attacks that occured after that are not reflected in the plot.
+
+The following Sunburst plot shows the types of targets that were hit by the terrorists. We prominently see Private citizens and properties, military, police, governments, and businesses.
+
 ![Target_type](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/targettype_sunburst.png)
 
-##### Perpetrators of Attacks
+#### Perpetrators of Attacks
+
+The following bar plot shows the terrorist organizations that committed the most number of terrorist acts. However, for around 93000+ attacks, the responsible party was "Unknown". There are also additional fields such as whether the organizations officially claimed responsibility, etc./ but they have not been factored into this graph. How the activity of the different groups has changed over time and their sphere of influence has to be studied by plotting their attacks separately against year and with geospatial mapping respectively. 
 
 ![Perpetrator_org](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/perpetrators.png)
 
+The Motive field in the GTD is a text field. A simple way to examine it was to plot a word cloud (below).
+
 ![Motive](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/motive_wc.png)
 
-##### Details of Attacks
+#### Details of Attacks
+
+The following plot shows the number of deaths caused by different attack types. We see three attack types on Y-axis becuase we have been provided with three attacktype fields as each incident can involve multiple types of attacks.
 
 ![Attack_type](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/attack_type.png)
 
+The weapons that were used shows some variety (check the sunburst plot below), but mostly explosives and firearms were used by these terrorists to create terror and bloodshed. 
+
 ![Weapon_type](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/weapon_type_sunburst.png)
 
-##### Casualties
+#### Casualties
+
+This map shows the number of casualties for each geographical region. The bubbles in the Middle East are so big that they obscure some other parts of Asia and Africa. 
 
 ![Casualty_Map](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/nkill_map.png)
 
-##### Refugee Flow
+#### Refugee Flow
 
 ![Refugee_Country_of_origin](https://github.com/CMU-IDS-Fall-2023/final-project-think_op/blob/main/images/Rf_co.png)
 
