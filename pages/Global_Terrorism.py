@@ -13,6 +13,8 @@ df = pd.read_csv('data\gtd_1970_2021.csv')
 
 df = df.dropna(subset=['latitude', 'longitude'])
 
-print(df)
+filtered_years = st.slider("Filter for years", min_value=df["iyear"].min(), max_value=df["iyear"].max(), value=(1990, 2000))
+
+df = df[(df["iyear"] <= max(filtered_years)) & (df["iyear"] >= min(filtered_years))]
 
 st.map(df, latitude='latitude', longitude='longitude')
