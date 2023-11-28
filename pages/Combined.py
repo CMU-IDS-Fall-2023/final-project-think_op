@@ -8,8 +8,8 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 st.set_page_config(layout="wide")
 
-st.title("Placeholder title")
-st.markdown("Placeholder markdown")
+st.title("Combined Analysis")
+st.markdown("Correlation between number of terrorist attacks and number of refugees")
 
 df_terror_refugee_dest = pd.read_csv("data/terror_refugee_dest.csv")
 df_terror_refugee_origin = pd.read_csv("data/terror_refugee_origin.csv")
@@ -48,6 +48,8 @@ origin_line2 = origin_base.mark_line(color='green').encode(
 
 chart1 = alt.layer(origin_line1, origin_line2).resolve_scale(
     y = 'independent'
+).properties(
+    title="Origin Data Correlation"
 )
 
 # Choose a country
@@ -71,18 +73,23 @@ dest_line2 = dest_base.mark_line(color='yellow').encode(
 
 chart2 = alt.layer(dest_line1, dest_line2).resolve_scale(
     y = 'independent'
+).properties(
+    title="Destination Data Correlation"
 )
+
+country_selected = st.session_state.selected_country
 
 # Origin
 col1, col2 = st.columns([3, 1])
 with col1:
+    st.subheader(f"Terrorist attacks and refugees fleeing from {country_selected}")
     st.altair_chart(chart1, use_container_width=True)
 with col2:
     delta_text_origin = ""
     if corr_origin >= 0.7:
         delta_text_origin = "Highly correlated"
     elif corr_origin >= 0.5:
-        delta_text = "Moderately correlated"
+        delta_text_origin = "Moderately correlated"
     else:
         delta_text_origin = "Weakly correlated"
     
@@ -96,6 +103,7 @@ with col2:
 # Destination
 col3, col4 = st.columns([3, 1])
 with col3:
+    st.subheader(f"Terrorist attacks and refugees coming to {country_selected}")
     st.altair_chart(chart2, use_container_width=True)
 with col4:
     delta_text_dest = ""
