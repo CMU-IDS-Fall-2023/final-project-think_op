@@ -2,10 +2,11 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-import pycountry
 
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
+
+st.set_page_config(layout="wide")
 
 st.title("Placeholder title")
 st.markdown("Placeholder markdown")
@@ -28,11 +29,13 @@ filtered_years = st.slider("Filter for years", min_value=min_year, max_value=max
 
 df_terror_refugee_dest = df_terror_refugee_dest[(df_terror_refugee_dest["iyear"] <= max(filtered_years)) & (df_terror_refugee_dest["iyear"] >= min(filtered_years))]
 df_terror_refugee_origin = df_terror_refugee_origin[(df_terror_refugee_origin["iyear"] <= max(filtered_years)) & (df_terror_refugee_origin["iyear"] >= min(filtered_years))]
-# Plot the attack count and refugee population by year with altair
-# Use two y-axis and show legend
+
+# Calculate correlation coefficient
+corr_origin = df_terror_refugee_origin['Attack Count'].corr(df_terror_refugee_origin['Refugee Count (origin)'])
+corr_origin = round(corr_origin, 4)
 
 origin_base = alt.Chart(df_terror_refugee_origin).encode(
-    alt.X('iyear:Q', axis=alt.Axis(title='Year')),
+    alt.X('iyear:Q', axis=alt.Axis(title='Year', format='')),
 )
 
 origin_line1 = origin_base.mark_line(color='red').encode(
@@ -50,8 +53,12 @@ chart1 = alt.layer(origin_line1, origin_line2).resolve_scale(
 # Choose a country
 df_terror_refugee_dest = df_terror_refugee_dest[df_terror_refugee_dest['country'] == st.session_state.selected_country]
 
+# Calculate correlation coefficient
+corr_dest = df_terror_refugee_dest['Attack Count'].corr(df_terror_refugee_dest['Refugee Count (destination)'])
+corr_dest = round(corr_dest, 4)
+
 dest_base = alt.Chart(df_terror_refugee_dest).encode(
-    alt.X('iyear:Q', axis=alt.Axis(title='Year')),
+    alt.X('iyear:Q', axis=alt.Axis(title='Year', format='')),
 )
 
 dest_line1 = dest_base.mark_line(color='red').encode(
@@ -66,10 +73,42 @@ chart2 = alt.layer(dest_line1, dest_line2).resolve_scale(
     y = 'independent'
 )
 
-col1, col2 = st.columns(2)
-
+# Origin
+col1, col2 = st.columns([3, 1])
 with col1:
     st.altair_chart(chart1, use_container_width=True)
-
 with col2:
+    delta_text_origin = ""
+    if corr_origin >= 0.7:
+        delta_text_origin = "Highly correlated"
+    elif corr_origin >= 0.5:
+        delta_text = "Moderately correlated"
+    else:
+        delta_text_origin = "Weakly correlated"
+    
+    if corr_origin < 0:
+        delta_text_origin = "-" + delta_text_origin
+    else:
+        delta_text_origin = "+" + delta_text_origin
+
+    st.metric(label="Correlation Coefficient", value=corr_origin, delta=delta_text_origin)
+
+# Destination
+col3, col4 = st.columns([3, 1])
+with col3:
     st.altair_chart(chart2, use_container_width=True)
+with col4:
+    delta_text_dest = ""
+    if corr_dest >= 0.7:
+        delta_text_dest = "Highly correlated"
+    elif corr_dest >= 0.5:
+        delta_text_dest = "Moderately correlated"
+    else:
+        delta_text_dest = "Weakly correlated"
+    
+    if corr_dest < 0:
+        delta_text_dest = "-" + delta_text_dest
+    else:
+        delta_text_dest = "+" + delta_text_dest
+
+    st.metric(label="Correlation Coefficient", value=corr_dest, delta=delta_text_dest)
