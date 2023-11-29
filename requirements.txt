@@ -10,3 +10,5 @@ scipy
 pycountry-convert
 geopy
 plotly
+pmdarima
+statsmodels
