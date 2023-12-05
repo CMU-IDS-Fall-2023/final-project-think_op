@@ -230,11 +230,11 @@ st.markdown("""
     <style>
     .highlight {
         font-size:22px !important;
-        color: green !important;
+        color: Teal   !important;
     }
     .number {
         font-size:22px !important;
-        color: red !important;
+        color: Coral  !important;
     }
     </style>
     
