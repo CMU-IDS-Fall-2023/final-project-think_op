@@ -15,11 +15,7 @@ number_of_countries1 = st.slider('Select the number of countries', 5, 16, 5)
 ## model
 
 #read
-df_1 = pd.read_excel("data/gtd_1970_2020.xlsx")
-df_2 = pd.read_excel("data/gtd_Jan_June_2021.xlsx")
-
-#Concact dbs
-df = pd.concat([df_1, df_2], ignore_index=True)
+df = pd.read_csv("data/gtd_1970_2021.csv")
 
 import pandas as pd
 refugee = pd.read_csv(filepath_or_buffer='data/population.csv', delimiter= ',')
