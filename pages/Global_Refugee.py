@@ -37,7 +37,7 @@ number_of_countries2 = 5
 
 st.header("Origin Country of Refugees")
 st.write('The bar chart below shows the countries producing the most refugees per year')
-##
+#
 
 col1, col2 = st.columns(2)
 with col1:
