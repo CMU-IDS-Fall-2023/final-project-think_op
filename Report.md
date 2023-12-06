@@ -21,8 +21,38 @@ We have put together an interactive webpage with Streamlit where anyone can play
 
 ## Methods
 
+We have designed four pages in our interactive webpage. We will discuss the methods used in each of the pages below:
+
+- Global Terrorism:
+
+- Global Refugee:
+
+- Combined:
+
+- Model:
+
 ## Results
+
+For each of the pages, we would discuss the results of each pages below:
+
+- Global Terrorism:
+
+- Global Refugee:
+
+- Combined:
+
+- Model:
 
 ## Discussion
 
+While we don't have all the answers to the myriad questions around refugee movements and terrorism, we've created an interactive space for users to explore and draw their own insights.
+
+In our final observations, we note a varying degree of correlation between terrorist activities and the flow of refugees to and from a country. This complexity is understandable considering the multitude of factors that influence someone to leave their home, such as natural calamities, political unrest, and yes, terrorism too—which is just one of the potential drivers we're examining.
+
+Our analysis of the primary destinations and origins of refugees from specific countries has revealed diverse trends. Some patterns indicate that refugees tend to move away from regions with higher levels of terrorist violence, while others suggest alternative motivations, like the pursuit of better living conditions or the simplicity of geographic proximity.
+
 ## Future Work
+
+Looking ahead, our aim is to broaden our understanding of refugee movements by integrating additional datasets that provide deeper insights into the forces driving people to seek asylum. Enhanced monitoring and potentially predicting refugee flows could significantly aid in maintaining social stability and optimizing the distribution of humanitarian aid. As for terrorism, bringing in supplementary data, like the Human Development Index, might yield a more nuanced view of how terrorism affects various facets of societal progress.
+
+Moreover, expanding our analytical toolkit could enrich user interaction. Currently, our approach utilizes a basic ARIMA model for time-series forecasting. However, other advanced models like Prophet or LSTM offer promising alternatives for such analysis. We plan to introduce a variety of these models down the line, allowing users to compare their performance directly on our datasets.
