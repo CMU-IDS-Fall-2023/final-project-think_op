@@ -30,7 +30,7 @@ st.plotly_chart(fig, use_container_width=True)
 
 st.write('')
 
-
+#
 
 number_of_countries1 = 5
 number_of_countries2 = 5
