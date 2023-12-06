@@ -15,12 +15,6 @@ st.title("Analysis of Global Refugee Datatset")
 
 dataset = pd.read_csv(filepath_or_buffer='./data/population.csv', delimiter= ',')
 
-### 1. Number of null values in Country of Origin, (ISO as well), Country of Asylum, Refugees under UNHCR’s mandate,
-co_null  = dataset['Country of origin'].isna().sum()
-iso_null = dataset['Country of origin (ISO)'].isna().sum()
-ca_null = dataset['Country of asylum'].isna().sum()
-ref_null  = dataset['Refugees under UNHCR\'s mandate'].isna().sum()
-
 
 st.header('Refugees under UNHCR\'s Mandate Over Years')
 
