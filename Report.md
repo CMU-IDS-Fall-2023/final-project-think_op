@@ -19,13 +19,17 @@ We have put together an interactive webpage with Streamlit where anyone can play
 
 ## Related Work
 
+TODO
+
 ## Methods
 
 We have designed four pages in our interactive webpage. We will discuss the methods used in each of the pages below:
 
-- Global Terrorism:
+- Global Terrorism:\
+    TODO
 
-- Global Refugee:
+- Global Refugee:\
+    TODO
 
 - Combined:\
   By integrating the Global Terrorism dataset with the Global Refugee dataset, based on the same countries and years, we're able to perform a comprehensive combined analysis. Initially, we filter for countries present in both datasets, addressing discrepancies such as nations that no longer exist, are not widely recognized, or are specific regions within a country. To standardize country names that might slightly vary (e.g., "US" vs. "United States of America"), we utilized the pycountry library, referring to countries by their ISO codes.
@@ -34,22 +38,26 @@ We have designed four pages in our interactive webpage. We will discuss the meth
 
   Additionally, our analysis extends to identifying the most common destinations or origins for refugees moving from or to the selected country. This aspect of the study helps ascertain if refugees tend to relocate to countries with fewer terrorist incidents, enhancing our understanding of their migration patterns.
 
-- Model:
+- Model:\
+    TODO
 
 ## Results
 
 For each of the pages, we would discuss the results for each of them below:
 
-- Global Terrorism:
+- Global Terrorism:\
+    TODO
 
-- Global Refugee:
+- Global Refugee:\
+    TODO
 
 - Combined:\
   Our findings reveal that there's no one-size-fits-all answer when it comes to the relationship between terrorist attacks and refugee movements. The correlation varies significantly from country to country, and the selected time period also greatly influences the correlation coefficient. Contrary to the common belief that refugees might increase the incidence of terrorist attacks in their destination countries, our data does not universally support this claim. Indeed, while some countries show a slight positive correlation between refugee influx and terrorist attacks, many others exhibit little or even negative correlation. This suggests that other factors, such as religious demographics, age and gender composition, and socio-cultural differences between origin and destination countries, might play a crucial role in this complex dynamic.
 
   Additionally, our analysis indicates that in countries experiencing high levels of terrorism, refugees often seek asylum in nations with fewer terrorist incidents. Conversely, in countries where terrorist attacks are less frequent, this factor becomes less pivotal in influencing refugee destinations, pointing to other motivations behind their choice of asylum.
 
-- Model:
+- Model:\
+    TODO
 
 ## Discussion
 
