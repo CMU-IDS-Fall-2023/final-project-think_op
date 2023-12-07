@@ -19,6 +19,7 @@ We have put together an interactive webpage with Streamlit where anyone can play
 
 ## Related Work
 Böhmelt, Bove, and Nussio 2019; Frey 2020; Legewie 2013; Rabby and Rogers 2010 have time and time again showed that even though there is little evidence to link refugees to terrorist attacks, terrorist attacks may increase the negative views on inmigrants. People incorrrectly assume that the more asylum seekers a country has, the more likely it is to have a terrorist attack. Nonetheless, few studies analyze the opposite relationship. Do terrorist attacks increase the number of asylum seekers? 
+
 Scimeca 2019 showed that people have fled war-torn and politically unstable countries, but these situations do not classify as terrorist attacks. We did not find any work which explicitly addresses how terrorism can affectt the number of asylum seekers in a given place in a give time period.
 
 
