@@ -19,6 +19,7 @@ We have put together an interactive webpage with Streamlit where anyone can play
 
 ## Related Work
 Böhmelt, Bove, and Nussio 2019; Frey 2020; Legewie 2013; Rabby and Rogers 2010 have time and time again showed that even though there is little evidence to link refugees to terrorist attacks, terrorist attacks may increase the negative views on inmigrants. People incorrrectly assume that the more asylum seekers a country has, the more likely it is to have a terrorist attack. Nonetheless, few studies analyze the opposite relationship. Do terrorist attacks increase the number of asylum seekers? 
+
 Scimeca 2019 showed that people have fled war-torn and politically unstable countries, but these situations do not classify as terrorist attacks. We did not find any work which explicitly addresses how terrorism can affectt the number of asylum seekers in a given place in a give time period.
 
 
@@ -45,7 +46,7 @@ We also visulaize the
   Additionally, our analysis extends to identifying the most common destinations or origins for refugees moving from or to the selected country. This aspect of the study helps ascertain if refugees tend to relocate to countries with fewer terrorist incidents, enhancing our understanding of their migration patterns.
 
 - Model:\
-    We will model the relationship bewteen refugees and terrorism. Our approach is to create a model that takes as inputs past refugee's data, terrorism attacks and predicts future refugees. What we did was create a model such that $f(refugee_{t-1},terrorism_{t}=refugee_t$, then this model would predict future refugee's trajectory by accounting for past behavour plus current terrorism. We endend up choosing a SARIMAX model, which models the refugees trajectory with an autoregresive model and takes in the terrorism data as exogenous variables. For terrorism data, we particularly select the number of people killed and wounded in a given year. We aggregate all of the terrorism and refugee's data, that means we will be interested in the overall worldwide trend, rather than per country. 
+    We will model the relationship bewteen refugees and terrorism. Our approach is to create a model that takes as inputs past refugee's data, terrorism attacks and predicts future refugees. What we did was create a model such that $f(refugee_{t-1},terrorism_{t})=refugee_t$, then this model would predict future refugee's trajectory by accounting for past behavour plus current terrorism. We endend up choosing a SARIMAX model, which models the refugees trajectory with an autoregresive model and takes in the terrorism data as exogenous variables. For terrorism data, we particularly select the number of people killed and wounded in a given year. We aggregate all of the terrorism and refugee's data, that means we will be interested in the overall worldwide trend, rather than per country. 
 
 
 ## Results
