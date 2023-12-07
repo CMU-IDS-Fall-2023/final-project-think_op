@@ -60,15 +60,19 @@ For each of the pages, we would discuss the results for each of them below:
     We visualize the trends in the Global Refugee Dataset by means of line chart, bar chart and sankey chart.
 
 ![Alt text](images/Refugee_Res1.png)
+
 From the line chart above, we can observe that the number of refugees started increasing from 1970 to 1992, post which we can observe a relative decline in the number of refugees to 2005. From 2005 to 2021, we observe a continuous increase in the number of refugees with there being more than 21 million refugees under the UNHCR mandate in 2021. We believe that the number of refugees are an acceptable representation of the social, political and economic status of the world.
 
 ![Alt text](images/Refugee_Res2.png) 
+
 In the bar chart above, we observe the origin countries of refugees in the year 2021. We can observe that Syria has produced the most refugees in 2021 followed by Afghanistan and South Sudan. On rolling back the years to around 2002, we can observe that the country of origin of most refugees is Afghanistan.
 
 ![Alt text](images/Refugee_Res3.png) 
+
 In the bar chart above, we observe the countires of asylum fro refugees in the year 2021. We can observe that Turkey has sheltered the most refugees in 2021 followed by Uganda and Pakistan. 
 
 ![Alt text](images/Refugee_Res4.png) 
+
 The sankey chart above visualizes the number of refugees from Afghanistan that have found asylum in target countries in 2021. We can observe that most refugees from Afghanistan have fled to Pakistan or Iran for asylum. If we consider the case fo Syria (not in the above fig), most refugees seek asylum in Turkey followed by Lebanon (in 2021). This seems to suggest that most refugees flee to neighboring countries.
 
 
