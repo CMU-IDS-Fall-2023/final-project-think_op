@@ -1,0 +1,3459 @@
+iso3,iyear,count,country
+AFG,1973,1,Afghanistan
+AFG,1979,3,Afghanistan
+AFG,1987,1,Afghanistan
+AFG,1988,11,Afghanistan
+AFG,1989,10,Afghanistan
+AFG,1990,2,Afghanistan
+AFG,1991,30,Afghanistan
+AFG,1992,36,Afghanistan
+AFG,1994,9,Afghanistan
+AFG,1995,6,Afghanistan
+AFG,1996,4,Afghanistan
+AFG,1997,1,Afghanistan
+AFG,1998,1,Afghanistan
+AFG,1999,9,Afghanistan
+AFG,2000,14,Afghanistan
+AFG,2001,14,Afghanistan
+AFG,2002,38,Afghanistan
+AFG,2003,100,Afghanistan
+AFG,2004,88,Afghanistan
+AFG,2005,155,Afghanistan
+AFG,2006,283,Afghanistan
+AFG,2007,342,Afghanistan
+AFG,2008,414,Afghanistan
+AFG,2009,503,Afghanistan
+AFG,2010,542,Afghanistan
+AFG,2011,421,Afghanistan
+AFG,2012,1469,Afghanistan
+AFG,2013,1443,Afghanistan
+AFG,2014,1824,Afghanistan
+AFG,2015,1928,Afghanistan
+AFG,2016,1616,Afghanistan
+AFG,2017,1415,Afghanistan
+AFG,2018,1777,Afghanistan
+AFG,2019,1806,Afghanistan
+AFG,2020,2604,Afghanistan
+AFG,2021,1453,Afghanistan
+AGO,1972,3,Angola
+AGO,1973,1,Angola
+AGO,1977,2,Angola
+AGO,1978,2,Angola
+AGO,1979,3,Angola
+AGO,1981,1,Angola
+AGO,1982,2,Angola
+AGO,1983,7,Angola
+AGO,1984,14,Angola
+AGO,1985,6,Angola
+AGO,1986,5,Angola
+AGO,1987,3,Angola
+AGO,1988,13,Angola
+AGO,1989,12,Angola
+AGO,1990,205,Angola
+AGO,1991,22,Angola
+AGO,1992,55,Angola
+AGO,1994,15,Angola
+AGO,1995,16,Angola
+AGO,1996,17,Angola
+AGO,1997,12,Angola
+AGO,1998,20,Angola
+AGO,1999,34,Angola
+AGO,2000,22,Angola
+AGO,2001,40,Angola
+AGO,2002,6,Angola
+AGO,2009,1,Angola
+AGO,2010,2,Angola
+AGO,2016,2,Angola
+AGO,2017,6,Angola
+AGO,2019,1,Angola
+AGO,2020,1,Angola
+ALB,1981,1,Albania
+ALB,1990,1,Albania
+ALB,1991,1,Albania
+ALB,1992,3,Albania
+ALB,1994,2,Albania
+ALB,1996,6,Albania
+ALB,1997,41,Albania
+ALB,1998,7,Albania
+ALB,1999,3,Albania
+ALB,2000,2,Albania
+ALB,2001,1,Albania
+ALB,2003,1,Albania
+ALB,2009,1,Albania
+ALB,2013,1,Albania
+ALB,2014,2,Albania
+ALB,2015,4,Albania
+ALB,2016,2,Albania
+ALB,2017,1,Albania
+ALB,2019,1,Albania
+ALB,2020,1,Albania
+ALB,2021,1,Albania
+AND,1974,1,Andorra
+ARE,1974,1,United Arab Emirates
+ARE,1977,1,United Arab Emirates
+ARE,1978,1,United Arab Emirates
+ARE,1979,2,United Arab Emirates
+ARE,1980,1,United Arab Emirates
+ARE,1981,3,United Arab Emirates
+ARE,1983,1,United Arab Emirates
+ARE,1985,2,United Arab Emirates
+ARE,1986,1,United Arab Emirates
+ARE,1989,1,United Arab Emirates
+ARE,1992,1,United Arab Emirates
+ARE,1995,2,United Arab Emirates
+ARE,2010,2,United Arab Emirates
+ARE,2013,1,United Arab Emirates
+ARE,2014,2,United Arab Emirates
+ARG,1970,21,Argentina
+ARG,1971,7,Argentina
+ARG,1972,20,Argentina
+ARG,1973,60,Argentina
+ARG,1974,71,Argentina
+ARG,1975,38,Argentina
+ARG,1976,54,Argentina
+ARG,1977,17,Argentina
+ARG,1978,25,Argentina
+ARG,1979,16,Argentina
+ARG,1980,6,Argentina
+ARG,1981,2,Argentina
+ARG,1982,9,Argentina
+ARG,1983,18,Argentina
+ARG,1984,46,Argentina
+ARG,1985,43,Argentina
+ARG,1986,33,Argentina
+ARG,1987,80,Argentina
+ARG,1988,33,Argentina
+ARG,1989,32,Argentina
+ARG,1990,31,Argentina
+ARG,1991,27,Argentina
+ARG,1992,41,Argentina
+ARG,1994,14,Argentina
+ARG,1995,16,Argentina
+ARG,1996,19,Argentina
+ARG,1997,11,Argentina
+ARG,1999,1,Argentina
+ARG,2001,2,Argentina
+ARG,2003,1,Argentina
+ARG,2005,3,Argentina
+ARG,2009,1,Argentina
+ARG,2010,5,Argentina
+ARG,2011,1,Argentina
+ARG,2012,2,Argentina
+ARG,2013,2,Argentina
+ARG,2014,1,Argentina
+ARG,2015,1,Argentina
+ARG,2016,2,Argentina
+ARG,2017,3,Argentina
+ARG,2018,5,Argentina
+ARG,2019,1,Argentina
+ARG,2020,5,Argentina
+ARG,2021,2,Argentina
+ARM,1991,1,Armenia
+ARM,1992,2,Armenia
+ARM,1994,4,Armenia
+ARM,1995,1,Armenia
+ARM,1996,1,Armenia
+ARM,1998,2,Armenia
+ARM,1999,2,Armenia
+ARM,2000,2,Armenia
+ARM,2001,2,Armenia
+ARM,2007,1,Armenia
+ARM,2009,1,Armenia
+ARM,2013,1,Armenia
+ARM,2015,2,Armenia
+ARM,2016,2,Armenia
+ARM,2018,1,Armenia
+ATG,1992,1,Antigua and Barbuda
+AUS,1970,1,Australia
+AUS,1971,1,Australia
+AUS,1972,8,Australia
+AUS,1974,1,Australia
+AUS,1978,2,Australia
+AUS,1979,2,Australia
+AUS,1980,6,Australia
+AUS,1981,1,Australia
+AUS,1982,2,Australia
+AUS,1986,2,Australia
+AUS,1988,3,Australia
+AUS,1989,2,Australia
+AUS,1991,4,Australia
+AUS,1992,4,Australia
+AUS,1994,9,Australia
+AUS,1995,5,Australia
+AUS,1996,5,Australia
+AUS,1997,4,Australia
+AUS,1998,6,Australia
+AUS,2000,1,Australia
+AUS,2001,2,Australia
+AUS,2006,2,Australia
+AUS,2008,1,Australia
+AUS,2009,1,Australia
+AUS,2010,1,Australia
+AUS,2013,1,Australia
+AUS,2014,8,Australia
+AUS,2015,12,Australia
+AUS,2016,9,Australia
+AUS,2017,4,Australia
+AUS,2018,3,Australia
+AUS,2019,2,Australia
+AUS,2020,5,Australia
+AUS,2021,1,Australia
+AUT,1972,7,Austria
+AUT,1973,2,Austria
+AUT,1974,1,Austria
+AUT,1975,2,Austria
+AUT,1976,4,Austria
+AUT,1977,5,Austria
+AUT,1978,1,Austria
+AUT,1979,5,Austria
+AUT,1980,2,Austria
+AUT,1981,3,Austria
+AUT,1982,11,Austria
+AUT,1984,4,Austria
+AUT,1985,4,Austria
+AUT,1986,4,Austria
+AUT,1987,4,Austria
+AUT,1988,1,Austria
+AUT,1989,2,Austria
+AUT,1990,1,Austria
+AUT,1991,3,Austria
+AUT,1992,8,Austria
+AUT,1994,5,Austria
+AUT,1995,12,Austria
+AUT,1996,4,Austria
+AUT,1997,1,Austria
+AUT,1998,1,Austria
+AUT,2006,1,Austria
+AUT,2007,1,Austria
+AUT,2008,7,Austria
+AUT,2009,3,Austria
+AUT,2011,1,Austria
+AUT,2013,1,Austria
+AUT,2016,3,Austria
+AUT,2017,1,Austria
+AUT,2018,1,Austria
+AUT,2020,4,Austria
+AZE,1991,3,Azerbaijan
+AZE,1992,12,Azerbaijan
+AZE,1994,11,Azerbaijan
+AZE,1995,2,Azerbaijan
+AZE,1996,2,Azerbaijan
+AZE,1997,1,Azerbaijan
+AZE,2000,1,Azerbaijan
+AZE,2001,4,Azerbaijan
+AZE,2002,1,Azerbaijan
+AZE,2007,1,Azerbaijan
+AZE,2008,2,Azerbaijan
+AZE,2009,2,Azerbaijan
+AZE,2014,3,Azerbaijan
+AZE,2016,2,Azerbaijan
+AZE,2017,2,Azerbaijan
+AZE,2018,1,Azerbaijan
+BDI,1991,7,Burundi
+BDI,1992,2,Burundi
+BDI,1994,16,Burundi
+BDI,1995,83,Burundi
+BDI,1996,35,Burundi
+BDI,1997,79,Burundi
+BDI,1998,13,Burundi
+BDI,1999,13,Burundi
+BDI,2000,17,Burundi
+BDI,2001,37,Burundi
+BDI,2002,18,Burundi
+BDI,2003,18,Burundi
+BDI,2004,1,Burundi
+BDI,2005,5,Burundi
+BDI,2006,5,Burundi
+BDI,2007,3,Burundi
+BDI,2008,7,Burundi
+BDI,2010,29,Burundi
+BDI,2011,8,Burundi
+BDI,2012,4,Burundi
+BDI,2013,2,Burundi
+BDI,2014,5,Burundi
+BDI,2015,102,Burundi
+BDI,2016,83,Burundi
+BDI,2017,21,Burundi
+BDI,2018,10,Burundi
+BDI,2019,6,Burundi
+BDI,2020,7,Burundi
+BDI,2021,6,Burundi
+BEL,1970,1,Belgium
+BEL,1972,4,Belgium
+BEL,1973,1,Belgium
+BEL,1974,5,Belgium
+BEL,1976,1,Belgium
+BEL,1977,1,Belgium
+BEL,1978,8,Belgium
+BEL,1979,8,Belgium
+BEL,1980,8,Belgium
+BEL,1981,6,Belgium
+BEL,1982,1,Belgium
+BEL,1983,8,Belgium
+BEL,1984,10,Belgium
+BEL,1985,21,Belgium
+BEL,1986,3,Belgium
+BEL,1987,1,Belgium
+BEL,1988,5,Belgium
+BEL,1989,7,Belgium
+BEL,1990,2,Belgium
+BEL,1991,6,Belgium
+BEL,1992,9,Belgium
+BEL,1994,5,Belgium
+BEL,1995,1,Belgium
+BEL,1997,2,Belgium
+BEL,1998,3,Belgium
+BEL,1999,2,Belgium
+BEL,2002,3,Belgium
+BEL,2003,8,Belgium
+BEL,2007,1,Belgium
+BEL,2009,1,Belgium
+BEL,2012,1,Belgium
+BEL,2014,2,Belgium
+BEL,2016,6,Belgium
+BEL,2017,3,Belgium
+BEL,2018,3,Belgium
+BEL,2019,1,Belgium
+BEL,2020,3,Belgium
+BEL,2021,2,Belgium
+BEN,1992,1,Benin
+BEN,1994,3,Benin
+BEN,1995,1,Benin
+BEN,1996,2,Benin
+BEN,2007,1,Benin
+BEN,2019,1,Benin
+BEN,2020,1,Benin
+BEN,2021,1,Benin
+BFA,1984,1,Burkina Faso
+BFA,1991,2,Burkina Faso
+BFA,2013,1,Burkina Faso
+BFA,2015,6,Burkina Faso
+BFA,2016,10,Burkina Faso
+BFA,2017,32,Burkina Faso
+BFA,2018,72,Burkina Faso
+BFA,2019,161,Burkina Faso
+BFA,2020,110,Burkina Faso
+BFA,2021,53,Burkina Faso
+BGD,1977,1,Bangladesh
+BGD,1979,1,Bangladesh
+BGD,1980,1,Bangladesh
+BGD,1981,1,Bangladesh
+BGD,1982,1,Bangladesh
+BGD,1984,1,Bangladesh
+BGD,1985,1,Bangladesh
+BGD,1986,11,Bangladesh
+BGD,1987,6,Bangladesh
+BGD,1988,36,Bangladesh
+BGD,1989,36,Bangladesh
+BGD,1990,22,Bangladesh
+BGD,1991,42,Bangladesh
+BGD,1992,76,Bangladesh
+BGD,1994,68,Bangladesh
+BGD,1995,74,Bangladesh
+BGD,1996,161,Bangladesh
+BGD,1997,17,Bangladesh
+BGD,1998,2,Bangladesh
+BGD,1999,11,Bangladesh
+BGD,2000,23,Bangladesh
+BGD,2001,15,Bangladesh
+BGD,2002,5,Bangladesh
+BGD,2003,4,Bangladesh
+BGD,2004,11,Bangladesh
+BGD,2005,23,Bangladesh
+BGD,2006,23,Bangladesh
+BGD,2007,9,Bangladesh
+BGD,2008,19,Bangladesh
+BGD,2009,27,Bangladesh
+BGD,2010,22,Bangladesh
+BGD,2011,13,Bangladesh
+BGD,2012,18,Bangladesh
+BGD,2013,138,Bangladesh
+BGD,2014,130,Bangladesh
+BGD,2015,469,Bangladesh
+BGD,2016,89,Bangladesh
+BGD,2017,41,Bangladesh
+BGD,2018,33,Bangladesh
+BGD,2019,32,Bangladesh
+BGD,2020,30,Bangladesh
+BGD,2021,10,Bangladesh
+BGR,1982,2,Bulgaria
+BGR,1984,1,Bulgaria
+BGR,1990,5,Bulgaria
+BGR,1991,3,Bulgaria
+BGR,1992,2,Bulgaria
+BGR,1994,2,Bulgaria
+BGR,1995,2,Bulgaria
+BGR,1996,12,Bulgaria
+BGR,1997,3,Bulgaria
+BGR,1998,2,Bulgaria
+BGR,1999,1,Bulgaria
+BGR,2000,2,Bulgaria
+BGR,2001,1,Bulgaria
+BGR,2002,1,Bulgaria
+BGR,2008,2,Bulgaria
+BGR,2011,2,Bulgaria
+BGR,2012,2,Bulgaria
+BGR,2013,3,Bulgaria
+BGR,2014,1,Bulgaria
+BGR,2015,2,Bulgaria
+BGR,2016,1,Bulgaria
+BGR,2018,1,Bulgaria
+BGR,2020,1,Bulgaria
+BHR,1979,1,Bahrain
+BHR,1980,1,Bahrain
+BHR,1991,1,Bahrain
+BHR,1994,1,Bahrain
+BHR,1995,8,Bahrain
+BHR,1996,16,Bahrain
+BHR,1997,11,Bahrain
+BHR,2003,1,Bahrain
+BHR,2006,1,Bahrain
+BHR,2008,1,Bahrain
+BHR,2010,2,Bahrain
+BHR,2011,1,Bahrain
+BHR,2012,26,Bahrain
+BHR,2013,52,Bahrain
+BHR,2014,42,Bahrain
+BHR,2015,18,Bahrain
+BHR,2016,3,Bahrain
+BHR,2017,21,Bahrain
+BHR,2018,1,Bahrain
+BHS,1976,1,Bahamas
+BHS,1981,1,Bahamas
+BHS,1997,2,Bahamas
+BHS,2013,1,Bahamas
+BLR,1994,1,Belarus
+BLR,1997,2,Belarus
+BLR,1999,1,Belarus
+BLR,2001,1,Belarus
+BLR,2006,1,Belarus
+BLR,2008,1,Belarus
+BLR,2010,2,Belarus
+BLR,2011,1,Belarus
+BLR,2012,3,Belarus
+BLR,2020,2,Belarus
+BLZ,1980,1,Belize
+BLZ,1991,3,Belize
+BLZ,1992,2,Belize
+BLZ,2000,1,Belize
+BLZ,2013,1,Belize
+BRA,1970,6,Brazil
+BRA,1971,3,Brazil
+BRA,1972,3,Brazil
+BRA,1973,2,Brazil
+BRA,1976,5,Brazil
+BRA,1977,1,Brazil
+BRA,1978,5,Brazil
+BRA,1979,6,Brazil
+BRA,1980,19,Brazil
+BRA,1981,11,Brazil
+BRA,1982,4,Brazil
+BRA,1983,8,Brazil
+BRA,1984,5,Brazil
+BRA,1985,1,Brazil
+BRA,1986,3,Brazil
+BRA,1987,1,Brazil
+BRA,1988,2,Brazil
+BRA,1989,5,Brazil
+BRA,1990,7,Brazil
+BRA,1991,24,Brazil
+BRA,1992,24,Brazil
+BRA,1994,19,Brazil
+BRA,1995,23,Brazil
+BRA,1996,18,Brazil
+BRA,1997,39,Brazil
+BRA,1998,2,Brazil
+BRA,1999,1,Brazil
+BRA,2000,2,Brazil
+BRA,2001,3,Brazil
+BRA,2002,1,Brazil
+BRA,2003,1,Brazil
+BRA,2006,3,Brazil
+BRA,2012,1,Brazil
+BRA,2013,3,Brazil
+BRA,2014,3,Brazil
+BRA,2015,5,Brazil
+BRA,2016,3,Brazil
+BRA,2017,2,Brazil
+BRA,2018,12,Brazil
+BRA,2019,3,Brazil
+BRA,2020,6,Brazil
+BRA,2021,4,Brazil
+BRB,1976,2,Barbados
+BRB,1992,1,Barbados
+BRN,1972,5,Brunei Darussalam
+BRN,1992,1,Brunei Darussalam
+BTN,2006,1,Bhutan
+BTN,2008,3,Bhutan
+BTN,2011,1,Bhutan
+BTN,2014,1,Bhutan
+BWA,1974,1,Botswana
+BWA,1985,1,Botswana
+BWA,1987,1,Botswana
+BWA,1988,3,Botswana
+BWA,1989,2,Botswana
+BWA,1990,1,Botswana
+BWA,1995,1,Botswana
+CAN,1970,2,Canada
+CAN,1972,4,Canada
+CAN,1974,1,Canada
+CAN,1980,3,Canada
+CAN,1982,5,Canada
+CAN,1983,1,Canada
+CAN,1985,3,Canada
+CAN,1986,2,Canada
+CAN,1989,1,Canada
+CAN,1992,3,Canada
+CAN,1994,4,Canada
+CAN,1995,5,Canada
+CAN,1996,1,Canada
+CAN,1997,2,Canada
+CAN,1998,4,Canada
+CAN,1999,2,Canada
+CAN,2000,5,Canada
+CAN,2004,2,Canada
+CAN,2006,2,Canada
+CAN,2008,5,Canada
+CAN,2009,4,Canada
+CAN,2010,2,Canada
+CAN,2012,3,Canada
+CAN,2013,4,Canada
+CAN,2014,3,Canada
+CAN,2015,5,Canada
+CAN,2016,6,Canada
+CAN,2017,16,Canada
+CAN,2018,7,Canada
+CAN,2019,5,Canada
+CAN,2020,14,Canada
+CAN,2021,12,Canada
+CHE,1970,3,Switzerland
+CHE,1971,1,Switzerland
+CHE,1972,3,Switzerland
+CHE,1973,2,Switzerland
+CHE,1974,3,Switzerland
+CHE,1975,3,Switzerland
+CHE,1976,4,Switzerland
+CHE,1977,4,Switzerland
+CHE,1978,3,Switzerland
+CHE,1979,6,Switzerland
+CHE,1980,7,Switzerland
+CHE,1981,13,Switzerland
+CHE,1982,6,Switzerland
+CHE,1983,3,Switzerland
+CHE,1984,1,Switzerland
+CHE,1985,7,Switzerland
+CHE,1987,1,Switzerland
+CHE,1988,4,Switzerland
+CHE,1990,1,Switzerland
+CHE,1991,2,Switzerland
+CHE,1992,6,Switzerland
+CHE,1995,5,Switzerland
+CHE,1996,4,Switzerland
+CHE,1997,1,Switzerland
+CHE,1998,1,Switzerland
+CHE,1999,2,Switzerland
+CHE,2000,4,Switzerland
+CHE,2001,2,Switzerland
+CHE,2003,1,Switzerland
+CHE,2007,2,Switzerland
+CHE,2011,3,Switzerland
+CHE,2013,2,Switzerland
+CHE,2016,2,Switzerland
+CHE,2018,1,Switzerland
+CHE,2019,1,Switzerland
+CHE,2020,2,Switzerland
+CHE,2021,2,Switzerland
+CHL,1973,7,Chile
+CHL,1976,2,Chile
+CHL,1977,6,Chile
+CHL,1978,8,Chile
+CHL,1979,49,Chile
+CHL,1980,41,Chile
+CHL,1981,34,Chile
+CHL,1982,21,Chile
+CHL,1983,106,Chile
+CHL,1984,563,Chile
+CHL,1985,232,Chile
+CHL,1986,243,Chile
+CHL,1987,173,Chile
+CHL,1988,185,Chile
+CHL,1989,146,Chile
+CHL,1990,161,Chile
+CHL,1991,127,Chile
+CHL,1992,116,Chile
+CHL,1994,15,Chile
+CHL,1995,17,Chile
+CHL,1996,8,Chile
+CHL,1997,6,Chile
+CHL,1998,1,Chile
+CHL,1999,3,Chile
+CHL,2000,2,Chile
+CHL,2001,3,Chile
+CHL,2002,1,Chile
+CHL,2003,2,Chile
+CHL,2006,1,Chile
+CHL,2007,8,Chile
+CHL,2008,4,Chile
+CHL,2009,8,Chile
+CHL,2010,5,Chile
+CHL,2011,6,Chile
+CHL,2012,2,Chile
+CHL,2013,5,Chile
+CHL,2014,17,Chile
+CHL,2015,1,Chile
+CHL,2016,19,Chile
+CHL,2017,17,Chile
+CHL,2018,47,Chile
+CHL,2019,27,Chile
+CHL,2020,54,Chile
+CHL,2021,45,Chile
+CHN,1989,3,China
+CHN,1990,1,China
+CHN,1991,1,China
+CHN,1992,5,China
+CHN,1994,13,China
+CHN,1995,8,China
+CHN,1996,62,China
+CHN,1997,18,China
+CHN,1998,2,China
+CHN,1999,2,China
+CHN,2000,4,China
+CHN,2001,12,China
+CHN,2002,2,China
+CHN,2003,3,China
+CHN,2004,2,China
+CHN,2005,1,China
+CHN,2008,20,China
+CHN,2009,7,China
+CHN,2010,1,China
+CHN,2011,4,China
+CHN,2012,4,China
+CHN,2013,12,China
+CHN,2014,37,China
+CHN,2015,17,China
+CHN,2016,5,China
+CHN,2017,6,China
+CHN,2018,1,China
+CHN,2019,14,China
+CHN,2020,21,China
+CHN,2021,5,China
+CMR,1991,4,Cameroon
+CMR,1992,6,Cameroon
+CMR,1994,6,Cameroon
+CMR,1995,2,Cameroon
+CMR,1998,1,Cameroon
+CMR,2007,1,Cameroon
+CMR,2008,1,Cameroon
+CMR,2009,1,Cameroon
+CMR,2010,3,Cameroon
+CMR,2011,3,Cameroon
+CMR,2013,3,Cameroon
+CMR,2014,69,Cameroon
+CMR,2015,83,Cameroon
+CMR,2016,58,Cameroon
+CMR,2017,111,Cameroon
+CMR,2018,236,Cameroon
+CMR,2019,146,Cameroon
+CMR,2020,145,Cameroon
+CMR,2021,46,Cameroon
+COG,1990,1,Congo
+COG,1994,8,Congo
+COG,1996,1,Congo
+COG,1997,2,Congo
+COG,1999,3,Congo
+COG,2001,1,Congo
+COG,2002,3,Congo
+COG,2003,1,Congo
+COG,2013,1,Congo
+COG,2016,15,Congo
+COL,1970,1,Colombia
+COL,1972,2,Colombia
+COL,1973,6,Colombia
+COL,1975,10,Colombia
+COL,1976,22,Colombia
+COL,1977,80,Colombia
+COL,1978,158,Colombia
+COL,1979,140,Colombia
+COL,1980,141,Colombia
+COL,1981,172,Colombia
+COL,1982,222,Colombia
+COL,1983,234,Colombia
+COL,1984,237,Colombia
+COL,1985,382,Colombia
+COL,1986,307,Colombia
+COL,1987,337,Colombia
+COL,1988,427,Colombia
+COL,1989,492,Colombia
+COL,1990,349,Colombia
+COL,1991,420,Colombia
+COL,1992,523,Colombia
+COL,1994,201,Colombia
+COL,1995,123,Colombia
+COL,1996,409,Colombia
+COL,1997,598,Colombia
+COL,1998,94,Colombia
+COL,1999,116,Colombia
+COL,2000,137,Colombia
+COL,2001,207,Colombia
+COL,2002,150,Colombia
+COL,2003,98,Colombia
+COL,2004,37,Colombia
+COL,2005,42,Colombia
+COL,2006,43,Colombia
+COL,2007,30,Colombia
+COL,2008,133,Colombia
+COL,2009,138,Colombia
+COL,2010,136,Colombia
+COL,2011,94,Colombia
+COL,2012,115,Colombia
+COL,2013,149,Colombia
+COL,2014,231,Colombia
+COL,2015,136,Colombia
+COL,2016,110,Colombia
+COL,2017,119,Colombia
+COL,2018,206,Colombia
+COL,2019,230,Colombia
+COL,2020,171,Colombia
+COL,2021,76,Colombia
+COM,1992,1,Comoros
+COM,1994,1,Comoros
+COM,1997,3,Comoros
+COM,2018,2,Comoros
+COM,2019,1,Comoros
+CRI,1971,1,Costa Rica
+CRI,1976,12,Costa Rica
+CRI,1977,5,Costa Rica
+CRI,1978,2,Costa Rica
+CRI,1979,2,Costa Rica
+CRI,1980,3,Costa Rica
+CRI,1981,10,Costa Rica
+CRI,1982,6,Costa Rica
+CRI,1983,3,Costa Rica
+CRI,1984,2,Costa Rica
+CRI,1985,5,Costa Rica
+CRI,1986,1,Costa Rica
+CRI,1987,3,Costa Rica
+CRI,1988,2,Costa Rica
+CRI,1989,1,Costa Rica
+CRI,1990,1,Costa Rica
+CRI,1991,2,Costa Rica
+CRI,1992,2,Costa Rica
+CRI,1994,1,Costa Rica
+CRI,1996,1,Costa Rica
+CRI,1997,1,Costa Rica
+CRI,2001,1,Costa Rica
+CRI,2019,2,Costa Rica
+CUB,1991,1,Cuba
+CUB,1992,4,Cuba
+CUB,1994,9,Cuba
+CUB,1996,1,Cuba
+CUB,1997,14,Cuba
+CUB,2007,1,Cuba
+CYP,1973,3,Cyprus
+CYP,1975,2,Cyprus
+CYP,1977,1,Cyprus
+CYP,1978,2,Cyprus
+CYP,1979,5,Cyprus
+CYP,1980,1,Cyprus
+CYP,1981,3,Cyprus
+CYP,1982,1,Cyprus
+CYP,1983,2,Cyprus
+CYP,1984,7,Cyprus
+CYP,1985,7,Cyprus
+CYP,1986,3,Cyprus
+CYP,1987,10,Cyprus
+CYP,1988,5,Cyprus
+CYP,1989,6,Cyprus
+CYP,1990,11,Cyprus
+CYP,1991,11,Cyprus
+CYP,1992,6,Cyprus
+CYP,1994,6,Cyprus
+CYP,1995,3,Cyprus
+CYP,1996,10,Cyprus
+CYP,1998,1,Cyprus
+CYP,1999,1,Cyprus
+CYP,2000,2,Cyprus
+CYP,2001,1,Cyprus
+CYP,2004,1,Cyprus
+CYP,2007,1,Cyprus
+CYP,2012,1,Cyprus
+CYP,2013,2,Cyprus
+CYP,2014,2,Cyprus
+CYP,2016,2,Cyprus
+CYP,2020,11,Cyprus
+CZE,1994,1,Czechia
+CZE,1995,3,Czechia
+CZE,1996,3,Czechia
+CZE,1997,4,Czechia
+CZE,2001,1,Czechia
+CZE,2003,1,Czechia
+CZE,2008,2,Czechia
+CZE,2009,1,Czechia
+CZE,2011,1,Czechia
+CZE,2013,1,Czechia
+CZE,2014,5,Czechia
+CZE,2015,4,Czechia
+CZE,2016,2,Czechia
+CZE,2017,3,Czechia
+DEU,1990,1,Germany
+DEU,1991,66,Germany
+DEU,1992,156,Germany
+DEU,1994,79,Germany
+DEU,1995,147,Germany
+DEU,1996,52,Germany
+DEU,1997,12,Germany
+DEU,1998,6,Germany
+DEU,1999,13,Germany
+DEU,2000,8,Germany
+DEU,2001,8,Germany
+DEU,2002,3,Germany
+DEU,2003,2,Germany
+DEU,2004,3,Germany
+DEU,2005,3,Germany
+DEU,2006,4,Germany
+DEU,2007,3,Germany
+DEU,2008,3,Germany
+DEU,2009,4,Germany
+DEU,2010,1,Germany
+DEU,2011,8,Germany
+DEU,2012,5,Germany
+DEU,2014,14,Germany
+DEU,2015,68,Germany
+DEU,2016,45,Germany
+DEU,2017,28,Germany
+DEU,2018,24,Germany
+DEU,2019,17,Germany
+DEU,2020,33,Germany
+DEU,2021,13,Germany
+DJI,1977,1,Djibouti
+DJI,1979,1,Djibouti
+DJI,1987,1,Djibouti
+DJI,1988,2,Djibouti
+DJI,1990,1,Djibouti
+DJI,1991,1,Djibouti
+DJI,1992,6,Djibouti
+DJI,1994,2,Djibouti
+DJI,1995,2,Djibouti
+DJI,1997,1,Djibouti
+DJI,2004,1,Djibouti
+DJI,2014,1,Djibouti
+DJI,2015,1,Djibouti
+DJI,2017,1,Djibouti
+DJI,2021,4,Djibouti
+DMA,1981,2,Dominica
+DMA,1997,1,Dominica
+DMA,2020,1,Dominica
+DNK,1978,1,Denmark
+DNK,1979,3,Denmark
+DNK,1980,1,Denmark
+DNK,1981,6,Denmark
+DNK,1985,4,Denmark
+DNK,1986,2,Denmark
+DNK,1987,2,Denmark
+DNK,1988,1,Denmark
+DNK,1989,1,Denmark
+DNK,1991,1,Denmark
+DNK,1992,4,Denmark
+DNK,1995,6,Denmark
+DNK,1999,1,Denmark
+DNK,2008,1,Denmark
+DNK,2010,1,Denmark
+DNK,2013,1,Denmark
+DNK,2015,5,Denmark
+DNK,2016,1,Denmark
+DNK,2018,1,Denmark
+DNK,2019,2,Denmark
+DZA,1972,1,Algeria
+DZA,1976,1,Algeria
+DZA,1978,1,Algeria
+DZA,1979,1,Algeria
+DZA,1990,2,Algeria
+DZA,1991,30,Algeria
+DZA,1992,215,Algeria
+DZA,1994,227,Algeria
+DZA,1995,185,Algeria
+DZA,1996,129,Algeria
+DZA,1997,344,Algeria
+DZA,1998,151,Algeria
+DZA,1999,106,Algeria
+DZA,2000,138,Algeria
+DZA,2001,113,Algeria
+DZA,2002,132,Algeria
+DZA,2003,75,Algeria
+DZA,2004,67,Algeria
+DZA,2005,104,Algeria
+DZA,2006,152,Algeria
+DZA,2007,124,Algeria
+DZA,2008,107,Algeria
+DZA,2009,108,Algeria
+DZA,2010,100,Algeria
+DZA,2011,15,Algeria
+DZA,2012,41,Algeria
+DZA,2013,22,Algeria
+DZA,2014,13,Algeria
+DZA,2015,15,Algeria
+DZA,2016,9,Algeria
+DZA,2017,14,Algeria
+DZA,2018,7,Algeria
+DZA,2020,4,Algeria
+DZA,2021,1,Algeria
+ECU,1973,1,Ecuador
+ECU,1974,3,Ecuador
+ECU,1976,2,Ecuador
+ECU,1977,7,Ecuador
+ECU,1978,11,Ecuador
+ECU,1979,2,Ecuador
+ECU,1980,2,Ecuador
+ECU,1981,2,Ecuador
+ECU,1982,3,Ecuador
+ECU,1983,10,Ecuador
+ECU,1984,24,Ecuador
+ECU,1985,12,Ecuador
+ECU,1986,8,Ecuador
+ECU,1987,6,Ecuador
+ECU,1988,9,Ecuador
+ECU,1989,14,Ecuador
+ECU,1990,8,Ecuador
+ECU,1991,17,Ecuador
+ECU,1992,23,Ecuador
+ECU,1994,6,Ecuador
+ECU,1995,6,Ecuador
+ECU,1996,5,Ecuador
+ECU,1997,4,Ecuador
+ECU,1998,3,Ecuador
+ECU,1999,2,Ecuador
+ECU,2000,4,Ecuador
+ECU,2001,5,Ecuador
+ECU,2002,2,Ecuador
+ECU,2003,4,Ecuador
+ECU,2004,2,Ecuador
+ECU,2008,2,Ecuador
+ECU,2009,3,Ecuador
+ECU,2011,1,Ecuador
+ECU,2012,1,Ecuador
+ECU,2013,2,Ecuador
+ECU,2015,1,Ecuador
+ECU,2016,6,Ecuador
+ECU,2017,3,Ecuador
+ECU,2018,11,Ecuador
+ECU,2019,3,Ecuador
+ECU,2020,5,Ecuador
+EGY,1970,1,Egypt
+EGY,1971,1,Egypt
+EGY,1972,1,Egypt
+EGY,1977,1,Egypt
+EGY,1978,2,Egypt
+EGY,1979,1,Egypt
+EGY,1980,5,Egypt
+EGY,1981,9,Egypt
+EGY,1982,1,Egypt
+EGY,1985,2,Egypt
+EGY,1986,4,Egypt
+EGY,1987,7,Egypt
+EGY,1988,9,Egypt
+EGY,1989,7,Egypt
+EGY,1990,13,Egypt
+EGY,1991,10,Egypt
+EGY,1992,79,Egypt
+EGY,1994,143,Egypt
+EGY,1995,102,Egypt
+EGY,1996,51,Egypt
+EGY,1997,22,Egypt
+EGY,1998,3,Egypt
+EGY,1999,1,Egypt
+EGY,2004,3,Egypt
+EGY,2005,2,Egypt
+EGY,2006,5,Egypt
+EGY,2008,1,Egypt
+EGY,2009,2,Egypt
+EGY,2010,2,Egypt
+EGY,2011,18,Egypt
+EGY,2012,49,Egypt
+EGY,2013,321,Egypt
+EGY,2014,354,Egypt
+EGY,2015,647,Egypt
+EGY,2016,376,Egypt
+EGY,2017,225,Egypt
+EGY,2018,54,Egypt
+EGY,2019,63,Egypt
+EGY,2020,57,Egypt
+EGY,2021,11,Egypt
+ERI,1995,2,Eritrea
+ERI,1996,1,Eritrea
+ERI,2007,2,Eritrea
+ERI,2008,2,Eritrea
+ERI,2009,1,Eritrea
+ERI,2010,1,Eritrea
+ERI,2011,1,Eritrea
+ERI,2020,7,Eritrea
+ESH,1978,1,Western Sahara
+ESH,1984,1,Western Sahara
+ESH,1986,1,Western Sahara
+ESH,1992,1,Western Sahara
+ESH,2007,1,Western Sahara
+ESH,2018,2,Western Sahara
+ESH,2021,1,Western Sahara
+ESP,1970,4,Spain
+ESP,1971,22,Spain
+ESP,1972,19,Spain
+ESP,1973,21,Spain
+ESP,1974,14,Spain
+ESP,1975,136,Spain
+ESP,1976,50,Spain
+ESP,1977,147,Spain
+ESP,1978,209,Spain
+ESP,1979,279,Spain
+ESP,1980,187,Spain
+ESP,1981,107,Spain
+ESP,1982,146,Spain
+ESP,1983,122,Spain
+ESP,1984,143,Spain
+ESP,1985,114,Spain
+ESP,1986,125,Spain
+ESP,1987,104,Spain
+ESP,1988,151,Spain
+ESP,1989,142,Spain
+ESP,1990,113,Spain
+ESP,1991,89,Spain
+ESP,1992,72,Spain
+ESP,1994,55,Spain
+ESP,1995,44,Spain
+ESP,1996,63,Spain
+ESP,1997,86,Spain
+ESP,1998,17,Spain
+ESP,1999,47,Spain
+ESP,2000,112,Spain
+ESP,2001,79,Spain
+ESP,2002,41,Spain
+ESP,2003,21,Spain
+ESP,2004,31,Spain
+ESP,2005,24,Spain
+ESP,2006,23,Spain
+ESP,2007,11,Spain
+ESP,2008,37,Spain
+ESP,2009,21,Spain
+ESP,2010,3,Spain
+ESP,2012,1,Spain
+ESP,2013,5,Spain
+ESP,2014,4,Spain
+ESP,2015,1,Spain
+ESP,2016,3,Spain
+ESP,2017,4,Spain
+ESP,2018,2,Spain
+ESP,2019,4,Spain
+ESP,2021,2,Spain
+EST,1992,2,Estonia
+EST,1994,6,Estonia
+EST,1995,2,Estonia
+EST,1996,1,Estonia
+EST,1999,1,Estonia
+EST,2001,1,Estonia
+EST,2011,1,Estonia
+EST,2015,1,Estonia
+EST,2021,2,Estonia
+ETH,1970,3,Ethiopia
+ETH,1971,1,Ethiopia
+ETH,1973,1,Ethiopia
+ETH,1974,4,Ethiopia
+ETH,1975,4,Ethiopia
+ETH,1976,5,Ethiopia
+ETH,1977,4,Ethiopia
+ETH,1978,2,Ethiopia
+ETH,1979,4,Ethiopia
+ETH,1983,3,Ethiopia
+ETH,1984,1,Ethiopia
+ETH,1985,1,Ethiopia
+ETH,1986,1,Ethiopia
+ETH,1987,1,Ethiopia
+ETH,1988,2,Ethiopia
+ETH,1989,1,Ethiopia
+ETH,1990,10,Ethiopia
+ETH,1991,5,Ethiopia
+ETH,1992,13,Ethiopia
+ETH,1994,4,Ethiopia
+ETH,1995,5,Ethiopia
+ETH,1996,7,Ethiopia
+ETH,1997,6,Ethiopia
+ETH,1999,2,Ethiopia
+ETH,2000,1,Ethiopia
+ETH,2002,3,Ethiopia
+ETH,2003,1,Ethiopia
+ETH,2004,2,Ethiopia
+ETH,2005,5,Ethiopia
+ETH,2006,11,Ethiopia
+ETH,2007,5,Ethiopia
+ETH,2008,8,Ethiopia
+ETH,2009,2,Ethiopia
+ETH,2010,2,Ethiopia
+ETH,2011,3,Ethiopia
+ETH,2012,3,Ethiopia
+ETH,2013,5,Ethiopia
+ETH,2014,2,Ethiopia
+ETH,2015,7,Ethiopia
+ETH,2016,13,Ethiopia
+ETH,2017,28,Ethiopia
+ETH,2018,10,Ethiopia
+ETH,2019,26,Ethiopia
+ETH,2020,53,Ethiopia
+ETH,2021,36,Ethiopia
+FIN,1986,1,Finland
+FIN,1992,1,Finland
+FIN,1994,1,Finland
+FIN,1995,1,Finland
+FIN,2007,1,Finland
+FIN,2008,1,Finland
+FIN,2015,9,Finland
+FIN,2016,3,Finland
+FIN,2017,2,Finland
+FIN,2018,1,Finland
+FIN,2019,3,Finland
+FIN,2020,1,Finland
+FJI,1987,3,Fiji
+FJI,1989,2,Fiji
+FJI,1991,3,Fiji
+FJI,1992,1,Fiji
+FJI,1999,3,Fiji
+FJI,2000,4,Fiji
+FJI,2001,1,Fiji
+FRA,1972,11,France
+FRA,1973,14,France
+FRA,1974,29,France
+FRA,1975,39,France
+FRA,1976,58,France
+FRA,1977,53,France
+FRA,1978,59,France
+FRA,1979,212,France
+FRA,1980,103,France
+FRA,1981,68,France
+FRA,1982,62,France
+FRA,1983,143,France
+FRA,1984,161,France
+FRA,1985,114,France
+FRA,1986,96,France
+FRA,1987,88,France
+FRA,1988,59,France
+FRA,1989,25,France
+FRA,1990,30,France
+FRA,1991,139,France
+FRA,1992,127,France
+FRA,1994,97,France
+FRA,1995,71,France
+FRA,1996,270,France
+FRA,1997,130,France
+FRA,1998,12,France
+FRA,1999,46,France
+FRA,2000,28,France
+FRA,2001,21,France
+FRA,2002,32,France
+FRA,2003,34,France
+FRA,2004,11,France
+FRA,2005,33,France
+FRA,2006,34,France
+FRA,2007,16,France
+FRA,2008,13,France
+FRA,2009,9,France
+FRA,2010,3,France
+FRA,2011,8,France
+FRA,2012,66,France
+FRA,2013,18,France
+FRA,2014,14,France
+FRA,2015,38,France
+FRA,2016,25,France
+FRA,2017,42,France
+FRA,2018,13,France
+FRA,2019,21,France
+FRA,2020,24,France
+FRA,2021,19,France
+GAB,1979,1,Gabon
+GAB,1994,1,Gabon
+GAB,1996,1,Gabon
+GAB,1997,1,Gabon
+GAB,2017,4,Gabon
+GAB,2019,1,Gabon
+GBR,1970,12,United Kingdom
+GBR,1971,81,United Kingdom
+GBR,1972,292,United Kingdom
+GBR,1973,189,United Kingdom
+GBR,1974,203,United Kingdom
+GBR,1975,194,United Kingdom
+GBR,1976,194,United Kingdom
+GBR,1977,140,United Kingdom
+GBR,1978,100,United Kingdom
+GBR,1979,239,United Kingdom
+GBR,1980,134,United Kingdom
+GBR,1981,142,United Kingdom
+GBR,1982,95,United Kingdom
+GBR,1983,177,United Kingdom
+GBR,1984,145,United Kingdom
+GBR,1985,67,United Kingdom
+GBR,1986,95,United Kingdom
+GBR,1987,117,United Kingdom
+GBR,1988,180,United Kingdom
+GBR,1989,163,United Kingdom
+GBR,1990,147,United Kingdom
+GBR,1991,262,United Kingdom
+GBR,1992,274,United Kingdom
+GBR,1994,256,United Kingdom
+GBR,1995,22,United Kingdom
+GBR,1996,36,United Kingdom
+GBR,1997,78,United Kingdom
+GBR,1998,63,United Kingdom
+GBR,1999,76,United Kingdom
+GBR,2000,61,United Kingdom
+GBR,2001,94,United Kingdom
+GBR,2002,21,United Kingdom
+GBR,2003,23,United Kingdom
+GBR,2004,5,United Kingdom
+GBR,2005,29,United Kingdom
+GBR,2006,6,United Kingdom
+GBR,2007,24,United Kingdom
+GBR,2008,39,United Kingdom
+GBR,2009,23,United Kingdom
+GBR,2010,57,United Kingdom
+GBR,2011,47,United Kingdom
+GBR,2012,54,United Kingdom
+GBR,2013,136,United Kingdom
+GBR,2014,104,United Kingdom
+GBR,2015,114,United Kingdom
+GBR,2016,104,United Kingdom
+GBR,2017,123,United Kingdom
+GBR,2018,101,United Kingdom
+GBR,2019,85,United Kingdom
+GBR,2020,90,United Kingdom
+GBR,2021,40,United Kingdom
+GEO,1991,3,Georgia
+GEO,1992,39,Georgia
+GEO,1994,18,Georgia
+GEO,1995,17,Georgia
+GEO,1996,3,Georgia
+GEO,1997,6,Georgia
+GEO,1998,12,Georgia
+GEO,1999,7,Georgia
+GEO,2000,7,Georgia
+GEO,2001,4,Georgia
+GEO,2002,2,Georgia
+GEO,2003,6,Georgia
+GEO,2004,3,Georgia
+GEO,2005,6,Georgia
+GEO,2006,3,Georgia
+GEO,2008,33,Georgia
+GEO,2009,25,Georgia
+GEO,2010,7,Georgia
+GEO,2011,3,Georgia
+GEO,2012,3,Georgia
+GEO,2013,2,Georgia
+GEO,2014,2,Georgia
+GEO,2015,1,Georgia
+GEO,2016,4,Georgia
+GEO,2017,1,Georgia
+GEO,2018,1,Georgia
+GEO,2020,1,Georgia
+GHA,1987,1,Ghana
+GHA,1992,8,Ghana
+GHA,1994,4,Ghana
+GHA,1995,1,Ghana
+GHA,1996,2,Ghana
+GHA,1997,1,Ghana
+GHA,2014,1,Ghana
+GHA,2016,1,Ghana
+GHA,2018,2,Ghana
+GHA,2019,3,Ghana
+GHA,2020,10,Ghana
+GHA,2021,1,Ghana
+GIN,1980,2,Guinea
+GIN,1992,2,Guinea
+GIN,1994,2,Guinea
+GIN,1996,1,Guinea
+GIN,2000,12,Guinea
+GIN,2005,1,Guinea
+GIN,2013,2,Guinea
+GIN,2015,2,Guinea
+GIN,2016,1,Guinea
+GIN,2018,2,Guinea
+GMB,1994,1,Gambia
+GMB,1995,1,Gambia
+GMB,2000,1,Gambia
+GNB,2001,1,Guinea-Bissau
+GNB,2003,1,Guinea-Bissau
+GNB,2005,4,Guinea-Bissau
+GNB,2006,1,Guinea-Bissau
+GNB,2009,1,Guinea-Bissau
+GNB,2012,1,Guinea-Bissau
+GNQ,1992,1,Equatorial Guinea
+GNQ,2009,1,Equatorial Guinea
+GRC,1970,3,Greece
+GRC,1971,1,Greece
+GRC,1972,2,Greece
+GRC,1973,11,Greece
+GRC,1974,6,Greece
+GRC,1975,4,Greece
+GRC,1976,21,Greece
+GRC,1977,47,Greece
+GRC,1978,39,Greece
+GRC,1979,9,Greece
+GRC,1980,15,Greece
+GRC,1981,20,Greece
+GRC,1982,19,Greece
+GRC,1983,11,Greece
+GRC,1984,28,Greece
+GRC,1985,35,Greece
+GRC,1986,41,Greece
+GRC,1987,26,Greece
+GRC,1988,38,Greece
+GRC,1989,50,Greece
+GRC,1990,55,Greece
+GRC,1991,57,Greece
+GRC,1992,35,Greece
+GRC,1994,42,Greece
+GRC,1995,8,Greece
+GRC,1996,20,Greece
+GRC,1997,21,Greece
+GRC,1998,28,Greece
+GRC,1999,35,Greece
+GRC,2000,28,Greece
+GRC,2001,14,Greece
+GRC,2002,10,Greece
+GRC,2003,12,Greece
+GRC,2004,4,Greece
+GRC,2005,6,Greece
+GRC,2006,23,Greece
+GRC,2007,15,Greece
+GRC,2008,53,Greece
+GRC,2009,115,Greece
+GRC,2010,49,Greece
+GRC,2011,11,Greece
+GRC,2012,24,Greece
+GRC,2013,56,Greece
+GRC,2014,27,Greece
+GRC,2015,30,Greece
+GRC,2016,30,Greece
+GRC,2017,44,Greece
+GRC,2018,26,Greece
+GRC,2019,32,Greece
+GRC,2020,50,Greece
+GRC,2021,11,Greece
+GRD,1980,4,Grenada
+GRD,1983,1,Grenada
+GTM,1970,4,Guatemala
+GTM,1971,1,Guatemala
+GTM,1974,1,Guatemala
+GTM,1975,5,Guatemala
+GTM,1976,13,Guatemala
+GTM,1977,8,Guatemala
+GTM,1978,29,Guatemala
+GTM,1979,60,Guatemala
+GTM,1980,281,Guatemala
+GTM,1981,399,Guatemala
+GTM,1982,354,Guatemala
+GTM,1983,117,Guatemala
+GTM,1984,74,Guatemala
+GTM,1985,63,Guatemala
+GTM,1986,31,Guatemala
+GTM,1987,56,Guatemala
+GTM,1988,29,Guatemala
+GTM,1989,79,Guatemala
+GTM,1990,83,Guatemala
+GTM,1991,77,Guatemala
+GTM,1992,48,Guatemala
+GTM,1994,84,Guatemala
+GTM,1995,82,Guatemala
+GTM,1996,26,Guatemala
+GTM,1997,26,Guatemala
+GTM,1999,1,Guatemala
+GTM,2000,1,Guatemala
+GTM,2001,2,Guatemala
+GTM,2003,3,Guatemala
+GTM,2004,2,Guatemala
+GTM,2006,4,Guatemala
+GTM,2012,1,Guatemala
+GTM,2013,6,Guatemala
+GTM,2018,2,Guatemala
+GTM,2020,3,Guatemala
+GTM,2021,1,Guatemala
+GUF,1983,3,French Guiana
+GUF,1996,2,French Guiana
+GUF,1997,2,French Guiana
+GUY,1978,1,Guyana
+GUY,1979,2,Guyana
+GUY,1980,1,Guyana
+GUY,1981,1,Guyana
+GUY,1990,5,Guyana
+GUY,1992,4,Guyana
+GUY,1997,1,Guyana
+GUY,1998,2,Guyana
+GUY,2001,1,Guyana
+GUY,2002,1,Guyana
+GUY,2003,1,Guyana
+GUY,2006,2,Guyana
+GUY,2008,3,Guyana
+GUY,2016,1,Guyana
+GUY,2019,1,Guyana
+GUY,2020,6,Guyana
+HND,1973,1,Honduras
+HND,1979,6,Honduras
+HND,1980,16,Honduras
+HND,1981,17,Honduras
+HND,1982,34,Honduras
+HND,1983,29,Honduras
+HND,1984,12,Honduras
+HND,1985,9,Honduras
+HND,1986,8,Honduras
+HND,1987,20,Honduras
+HND,1988,21,Honduras
+HND,1989,29,Honduras
+HND,1990,13,Honduras
+HND,1991,21,Honduras
+HND,1992,12,Honduras
+HND,1994,6,Honduras
+HND,1995,12,Honduras
+HND,1996,19,Honduras
+HND,1997,22,Honduras
+HND,2002,1,Honduras
+HND,2004,1,Honduras
+HND,2009,8,Honduras
+HND,2011,1,Honduras
+HND,2013,2,Honduras
+HND,2014,1,Honduras
+HND,2016,1,Honduras
+HND,2017,1,Honduras
+HND,2019,5,Honduras
+HND,2020,2,Honduras
+HRV,1991,26,Croatia
+HRV,1992,4,Croatia
+HRV,1994,4,Croatia
+HRV,1995,1,Croatia
+HRV,1996,3,Croatia
+HRV,1997,8,Croatia
+HRV,2000,2,Croatia
+HRV,2001,3,Croatia
+HRV,2005,1,Croatia
+HRV,2008,2,Croatia
+HRV,2009,1,Croatia
+HRV,2013,2,Croatia
+HRV,2020,1,Croatia
+HTI,1973,1,Haiti
+HTI,1974,2,Haiti
+HTI,1983,6,Haiti
+HTI,1987,10,Haiti
+HTI,1988,6,Haiti
+HTI,1989,3,Haiti
+HTI,1990,3,Haiti
+HTI,1991,17,Haiti
+HTI,1992,27,Haiti
+HTI,1994,27,Haiti
+HTI,1995,34,Haiti
+HTI,1996,27,Haiti
+HTI,1997,16,Haiti
+HTI,1998,1,Haiti
+HTI,1999,5,Haiti
+HTI,2000,9,Haiti
+HTI,2001,5,Haiti
+HTI,2002,2,Haiti
+HTI,2003,5,Haiti
+HTI,2004,2,Haiti
+HTI,2005,1,Haiti
+HTI,2006,1,Haiti
+HTI,2007,2,Haiti
+HTI,2016,1,Haiti
+HTI,2018,5,Haiti
+HTI,2019,4,Haiti
+HTI,2020,2,Haiti
+HUN,1989,1,Hungary
+HUN,1991,3,Hungary
+HUN,1992,1,Hungary
+HUN,1994,2,Hungary
+HUN,1996,13,Hungary
+HUN,1997,17,Hungary
+HUN,1998,2,Hungary
+HUN,2001,1,Hungary
+HUN,2008,2,Hungary
+HUN,2009,1,Hungary
+HUN,2014,1,Hungary
+HUN,2015,1,Hungary
+HUN,2016,1,Hungary
+HUN,2019,1,Hungary
+IDN,1977,1,Indonesia
+IDN,1978,2,Indonesia
+IDN,1981,1,Indonesia
+IDN,1984,2,Indonesia
+IDN,1985,2,Indonesia
+IDN,1986,4,Indonesia
+IDN,1989,2,Indonesia
+IDN,1990,3,Indonesia
+IDN,1991,7,Indonesia
+IDN,1992,4,Indonesia
+IDN,1994,5,Indonesia
+IDN,1995,24,Indonesia
+IDN,1996,65,Indonesia
+IDN,1997,27,Indonesia
+IDN,1998,3,Indonesia
+IDN,1999,60,Indonesia
+IDN,2000,101,Indonesia
+IDN,2001,106,Indonesia
+IDN,2002,43,Indonesia
+IDN,2003,18,Indonesia
+IDN,2004,17,Indonesia
+IDN,2005,15,Indonesia
+IDN,2006,10,Indonesia
+IDN,2007,2,Indonesia
+IDN,2008,13,Indonesia
+IDN,2009,19,Indonesia
+IDN,2010,4,Indonesia
+IDN,2011,21,Indonesia
+IDN,2012,39,Indonesia
+IDN,2013,32,Indonesia
+IDN,2014,35,Indonesia
+IDN,2015,29,Indonesia
+IDN,2016,19,Indonesia
+IDN,2017,27,Indonesia
+IDN,2018,43,Indonesia
+IDN,2019,26,Indonesia
+IDN,2020,19,Indonesia
+IDN,2021,26,Indonesia
+IND,1972,1,India
+IND,1975,1,India
+IND,1976,1,India
+IND,1977,1,India
+IND,1979,20,India
+IND,1980,10,India
+IND,1981,16,India
+IND,1982,13,India
+IND,1983,47,India
+IND,1984,159,India
+IND,1985,39,India
+IND,1986,96,India
+IND,1987,166,India
+IND,1988,358,India
+IND,1989,324,India
+IND,1990,349,India
+IND,1991,339,India
+IND,1992,237,India
+IND,1994,107,India
+IND,1995,179,India
+IND,1996,213,India
+IND,1997,193,India
+IND,1998,61,India
+IND,1999,112,India
+IND,2000,180,India
+IND,2001,234,India
+IND,2002,184,India
+IND,2003,196,India
+IND,2004,108,India
+IND,2005,146,India
+IND,2006,167,India
+IND,2007,150,India
+IND,2008,535,India
+IND,2009,672,India
+IND,2010,663,India
+IND,2011,645,India
+IND,2012,613,India
+IND,2013,694,India
+IND,2014,860,India
+IND,2015,885,India
+IND,2016,1027,India
+IND,2017,967,India
+IND,2018,889,India
+IND,2019,622,India
+IND,2020,450,India
+IND,2021,235,India
+IRL,1970,1,Ireland
+IRL,1971,1,Ireland
+IRL,1972,5,Ireland
+IRL,1973,3,Ireland
+IRL,1974,3,Ireland
+IRL,1975,7,Ireland
+IRL,1976,5,Ireland
+IRL,1977,3,Ireland
+IRL,1978,3,Ireland
+IRL,1979,8,Ireland
+IRL,1980,6,Ireland
+IRL,1981,5,Ireland
+IRL,1982,4,Ireland
+IRL,1983,4,Ireland
+IRL,1984,1,Ireland
+IRL,1985,2,Ireland
+IRL,1986,2,Ireland
+IRL,1987,24,Ireland
+IRL,1989,3,Ireland
+IRL,1990,2,Ireland
+IRL,1991,16,Ireland
+IRL,1992,7,Ireland
+IRL,1994,10,Ireland
+IRL,1995,3,Ireland
+IRL,1996,1,Ireland
+IRL,1997,4,Ireland
+IRL,1998,3,Ireland
+IRL,1999,3,Ireland
+IRL,2001,2,Ireland
+IRL,2003,1,Ireland
+IRL,2006,1,Ireland
+IRL,2007,1,Ireland
+IRL,2008,5,Ireland
+IRL,2010,4,Ireland
+IRL,2011,4,Ireland
+IRL,2012,29,Ireland
+IRL,2013,27,Ireland
+IRL,2014,33,Ireland
+IRL,2015,28,Ireland
+IRL,2016,15,Ireland
+IRL,2017,17,Ireland
+IRL,2018,5,Ireland
+IRL,2019,12,Ireland
+IRL,2020,10,Ireland
+IRL,2021,2,Ireland
+IRQ,1975,1,Iraq
+IRQ,1976,3,Iraq
+IRQ,1979,2,Iraq
+IRQ,1980,6,Iraq
+IRQ,1981,3,Iraq
+IRQ,1982,5,Iraq
+IRQ,1983,3,Iraq
+IRQ,1984,2,Iraq
+IRQ,1987,3,Iraq
+IRQ,1988,4,Iraq
+IRQ,1989,4,Iraq
+IRQ,1991,3,Iraq
+IRQ,1992,35,Iraq
+IRQ,1994,18,Iraq
+IRQ,1995,17,Iraq
+IRQ,1996,12,Iraq
+IRQ,1997,21,Iraq
+IRQ,1998,7,Iraq
+IRQ,1999,12,Iraq
+IRQ,2000,10,Iraq
+IRQ,2001,3,Iraq
+IRQ,2002,6,Iraq
+IRQ,2003,102,Iraq
+IRQ,2004,323,Iraq
+IRQ,2005,617,Iraq
+IRQ,2006,837,Iraq
+IRQ,2007,1045,Iraq
+IRQ,2008,1106,Iraq
+IRQ,2009,1137,Iraq
+IRQ,2010,1179,Iraq
+IRQ,2011,1308,Iraq
+IRQ,2012,1435,Iraq
+IRQ,2013,2852,Iraq
+IRQ,2014,3934,Iraq
+IRQ,2015,2751,Iraq
+IRQ,2016,3395,Iraq
+IRQ,2017,2548,Iraq
+IRQ,2018,1364,Iraq
+IRQ,2019,644,Iraq
+IRQ,2020,764,Iraq
+IRQ,2021,547,Iraq
+ISL,1983,1,Iceland
+ISL,1986,1,Iceland
+ISL,2012,1,Iceland
+ISL,2014,1,Iceland
+ISR,1971,1,Israel
+ISR,1972,15,Israel
+ISR,1973,1,Israel
+ISR,1974,12,Israel
+ISR,1975,2,Israel
+ISR,1976,2,Israel
+ISR,1977,6,Israel
+ISR,1978,23,Israel
+ISR,1979,129,Israel
+ISR,1980,77,Israel
+ISR,1981,32,Israel
+ISR,1982,54,Israel
+ISR,1983,26,Israel
+ISR,1984,20,Israel
+ISR,1985,18,Israel
+ISR,1986,47,Israel
+ISR,1987,20,Israel
+ISR,1988,32,Israel
+ISR,1989,73,Israel
+ISR,1990,81,Israel
+ISR,1991,53,Israel
+ISR,1992,58,Israel
+ISR,1994,41,Israel
+ISR,1995,12,Israel
+ISR,1996,18,Israel
+ISR,1997,12,Israel
+ISR,1998,12,Israel
+ISR,1999,8,Israel
+ISR,2000,13,Israel
+ISR,2001,70,Israel
+ISR,2002,71,Israel
+ISR,2003,34,Israel
+ISR,2004,18,Israel
+ISR,2005,28,Israel
+ISR,2006,79,Israel
+ISR,2007,49,Israel
+ISR,2008,129,Israel
+ISR,2009,36,Israel
+ISR,2010,14,Israel
+ISR,2011,51,Israel
+ISR,2012,59,Israel
+ISR,2013,37,Israel
+ISR,2014,293,Israel
+ISR,2015,58,Israel
+ISR,2016,50,Israel
+ISR,2017,34,Israel
+ISR,2018,63,Israel
+ISR,2019,65,Israel
+ISR,2020,67,Israel
+ISR,2021,101,Israel
+ITA,1970,3,Italy
+ITA,1971,3,Italy
+ITA,1972,4,Italy
+ITA,1973,15,Italy
+ITA,1974,22,Italy
+ITA,1975,7,Italy
+ITA,1976,173,Italy
+ITA,1977,308,Italy
+ITA,1978,277,Italy
+ITA,1979,209,Italy
+ITA,1980,110,Italy
+ITA,1981,69,Italy
+ITA,1982,23,Italy
+ITA,1983,7,Italy
+ITA,1984,14,Italy
+ITA,1985,11,Italy
+ITA,1986,7,Italy
+ITA,1987,14,Italy
+ITA,1988,29,Italy
+ITA,1989,15,Italy
+ITA,1990,6,Italy
+ITA,1991,31,Italy
+ITA,1992,37,Italy
+ITA,1994,18,Italy
+ITA,1995,1,Italy
+ITA,1996,8,Italy
+ITA,1997,8,Italy
+ITA,1998,6,Italy
+ITA,1999,7,Italy
+ITA,2000,8,Italy
+ITA,2001,11,Italy
+ITA,2002,7,Italy
+ITA,2003,15,Italy
+ITA,2004,3,Italy
+ITA,2005,6,Italy
+ITA,2006,4,Italy
+ITA,2008,1,Italy
+ITA,2009,4,Italy
+ITA,2010,10,Italy
+ITA,2011,5,Italy
+ITA,2012,10,Italy
+ITA,2013,7,Italy
+ITA,2014,7,Italy
+ITA,2015,6,Italy
+ITA,2016,11,Italy
+ITA,2017,10,Italy
+ITA,2018,15,Italy
+ITA,2019,8,Italy
+ITA,2020,13,Italy
+ITA,2021,3,Italy
+JAM,1974,2,Jamaica
+JAM,1976,1,Jamaica
+JAM,1979,2,Jamaica
+JAM,1980,6,Jamaica
+JAM,1981,1,Jamaica
+JAM,1986,1,Jamaica
+JAM,1991,1,Jamaica
+JAM,1992,6,Jamaica
+JAM,1994,2,Jamaica
+JAM,1995,1,Jamaica
+JAM,1996,1,Jamaica
+JAM,1997,8,Jamaica
+JAM,2007,1,Jamaica
+JAM,2014,1,Jamaica
+JAM,2017,2,Jamaica
+JOR,1970,9,Jordan
+JOR,1971,5,Jordan
+JOR,1972,7,Jordan
+JOR,1973,1,Jordan
+JOR,1976,1,Jordan
+JOR,1980,1,Jordan
+JOR,1981,2,Jordan
+JOR,1982,1,Jordan
+JOR,1983,7,Jordan
+JOR,1984,5,Jordan
+JOR,1988,1,Jordan
+JOR,1990,3,Jordan
+JOR,1991,11,Jordan
+JOR,1992,2,Jordan
+JOR,1994,6,Jordan
+JOR,1995,3,Jordan
+JOR,1996,2,Jordan
+JOR,1997,3,Jordan
+JOR,1998,1,Jordan
+JOR,1999,2,Jordan
+JOR,2000,2,Jordan
+JOR,2001,2,Jordan
+JOR,2002,2,Jordan
+JOR,2005,4,Jordan
+JOR,2006,1,Jordan
+JOR,2010,2,Jordan
+JOR,2012,2,Jordan
+JOR,2013,1,Jordan
+JOR,2014,3,Jordan
+JOR,2015,4,Jordan
+JOR,2016,11,Jordan
+JOR,2017,8,Jordan
+JOR,2018,2,Jordan
+JOR,2019,4,Jordan
+JPN,1970,2,Japan
+JPN,1973,2,Japan
+JPN,1974,3,Japan
+JPN,1975,12,Japan
+JPN,1976,1,Japan
+JPN,1977,4,Japan
+JPN,1978,35,Japan
+JPN,1979,16,Japan
+JPN,1981,1,Japan
+JPN,1982,2,Japan
+JPN,1983,12,Japan
+JPN,1984,15,Japan
+JPN,1985,10,Japan
+JPN,1986,10,Japan
+JPN,1987,10,Japan
+JPN,1988,16,Japan
+JPN,1989,13,Japan
+JPN,1990,93,Japan
+JPN,1991,19,Japan
+JPN,1992,40,Japan
+JPN,1994,9,Japan
+JPN,1995,20,Japan
+JPN,1996,8,Japan
+JPN,1997,5,Japan
+JPN,1998,1,Japan
+JPN,1999,2,Japan
+JPN,2000,13,Japan
+JPN,2001,3,Japan
+JPN,2002,2,Japan
+JPN,2003,2,Japan
+JPN,2008,3,Japan
+JPN,2009,1,Japan
+JPN,2013,1,Japan
+JPN,2014,5,Japan
+JPN,2015,10,Japan
+JPN,2016,1,Japan
+JPN,2018,1,Japan
+JPN,2019,2,Japan
+KAZ,1992,5,Kazakhstan
+KAZ,1994,1,Kazakhstan
+KAZ,1997,2,Kazakhstan
+KAZ,2000,1,Kazakhstan
+KAZ,2001,1,Kazakhstan
+KAZ,2008,1,Kazakhstan
+KAZ,2011,5,Kazakhstan
+KAZ,2012,4,Kazakhstan
+KAZ,2013,4,Kazakhstan
+KAZ,2016,3,Kazakhstan
+KAZ,2019,1,Kazakhstan
+KAZ,2020,3,Kazakhstan
+KEN,1975,4,Kenya
+KEN,1976,2,Kenya
+KEN,1978,1,Kenya
+KEN,1980,1,Kenya
+KEN,1989,4,Kenya
+KEN,1991,5,Kenya
+KEN,1992,30,Kenya
+KEN,1994,5,Kenya
+KEN,1995,4,Kenya
+KEN,1996,3,Kenya
+KEN,1997,17,Kenya
+KEN,1998,2,Kenya
+KEN,2000,4,Kenya
+KEN,2001,7,Kenya
+KEN,2002,2,Kenya
+KEN,2003,2,Kenya
+KEN,2005,2,Kenya
+KEN,2006,2,Kenya
+KEN,2007,12,Kenya
+KEN,2008,11,Kenya
+KEN,2009,1,Kenya
+KEN,2010,12,Kenya
+KEN,2011,42,Kenya
+KEN,2012,80,Kenya
+KEN,2013,80,Kenya
+KEN,2014,115,Kenya
+KEN,2015,70,Kenya
+KEN,2016,65,Kenya
+KEN,2017,97,Kenya
+KEN,2018,52,Kenya
+KEN,2019,50,Kenya
+KEN,2020,66,Kenya
+KEN,2021,33,Kenya
+KGZ,1996,5,Kyrgyzstan
+KGZ,1999,3,Kyrgyzstan
+KGZ,2000,4,Kyrgyzstan
+KGZ,2001,1,Kyrgyzstan
+KGZ,2002,2,Kyrgyzstan
+KGZ,2003,1,Kyrgyzstan
+KGZ,2005,2,Kyrgyzstan
+KGZ,2006,3,Kyrgyzstan
+KGZ,2007,1,Kyrgyzstan
+KGZ,2010,1,Kyrgyzstan
+KGZ,2011,1,Kyrgyzstan
+KGZ,2014,2,Kyrgyzstan
+KGZ,2015,3,Kyrgyzstan
+KGZ,2016,4,Kyrgyzstan
+KGZ,2017,3,Kyrgyzstan
+KGZ,2018,1,Kyrgyzstan
+KGZ,2020,2,Kyrgyzstan
+KHM,1971,2,Cambodia
+KHM,1972,2,Cambodia
+KHM,1978,1,Cambodia
+KHM,1989,2,Cambodia
+KHM,1990,2,Cambodia
+KHM,1991,3,Cambodia
+KHM,1992,67,Cambodia
+KHM,1994,39,Cambodia
+KHM,1995,56,Cambodia
+KHM,1996,33,Cambodia
+KHM,1997,18,Cambodia
+KHM,1998,7,Cambodia
+KHM,1999,8,Cambodia
+KHM,2000,4,Cambodia
+KHM,2001,7,Cambodia
+KHM,2002,3,Cambodia
+KHM,2003,1,Cambodia
+KHM,2008,2,Cambodia
+KHM,2013,2,Cambodia
+KHM,2018,1,Cambodia
+KHM,2020,1,Cambodia
+KWT,1972,1,Kuwait
+KWT,1974,1,Kuwait
+KWT,1975,1,Kuwait
+KWT,1976,1,Kuwait
+KWT,1978,1,Kuwait
+KWT,1980,4,Kuwait
+KWT,1981,3,Kuwait
+KWT,1982,1,Kuwait
+KWT,1983,7,Kuwait
+KWT,1984,1,Kuwait
+KWT,1985,2,Kuwait
+KWT,1986,1,Kuwait
+KWT,1987,12,Kuwait
+KWT,1988,4,Kuwait
+KWT,1991,5,Kuwait
+KWT,1992,15,Kuwait
+KWT,1994,2,Kuwait
+KWT,1997,2,Kuwait
+KWT,2001,2,Kuwait
+KWT,2002,1,Kuwait
+KWT,2003,3,Kuwait
+KWT,2005,2,Kuwait
+KWT,2011,1,Kuwait
+KWT,2015,1,Kuwait
+KWT,2016,2,Kuwait
+LBN,1970,1,Lebanon
+LBN,1971,1,Lebanon
+LBN,1972,3,Lebanon
+LBN,1973,11,Lebanon
+LBN,1974,11,Lebanon
+LBN,1975,15,Lebanon
+LBN,1976,4,Lebanon
+LBN,1977,4,Lebanon
+LBN,1978,12,Lebanon
+LBN,1979,38,Lebanon
+LBN,1980,86,Lebanon
+LBN,1981,81,Lebanon
+LBN,1982,120,Lebanon
+LBN,1983,234,Lebanon
+LBN,1984,166,Lebanon
+LBN,1985,96,Lebanon
+LBN,1986,106,Lebanon
+LBN,1987,94,Lebanon
+LBN,1988,125,Lebanon
+LBN,1989,142,Lebanon
+LBN,1990,84,Lebanon
+LBN,1991,91,Lebanon
+LBN,1992,91,Lebanon
+LBN,1994,67,Lebanon
+LBN,1995,38,Lebanon
+LBN,1996,39,Lebanon
+LBN,1997,46,Lebanon
+LBN,1998,23,Lebanon
+LBN,1999,42,Lebanon
+LBN,2000,12,Lebanon
+LBN,2001,5,Lebanon
+LBN,2002,8,Lebanon
+LBN,2003,5,Lebanon
+LBN,2004,1,Lebanon
+LBN,2005,17,Lebanon
+LBN,2006,8,Lebanon
+LBN,2007,18,Lebanon
+LBN,2008,58,Lebanon
+LBN,2009,14,Lebanon
+LBN,2010,5,Lebanon
+LBN,2011,10,Lebanon
+LBN,2012,15,Lebanon
+LBN,2013,121,Lebanon
+LBN,2014,205,Lebanon
+LBN,2015,44,Lebanon
+LBN,2016,41,Lebanon
+LBN,2017,24,Lebanon
+LBN,2018,8,Lebanon
+LBN,2019,7,Lebanon
+LBN,2020,10,Lebanon
+LBN,2021,1,Lebanon
+LBR,1990,4,Liberia
+LBR,1991,1,Liberia
+LBR,1992,10,Liberia
+LBR,1994,3,Liberia
+LBR,1996,1,Liberia
+LBR,1999,2,Liberia
+LBR,2000,1,Liberia
+LBR,2001,3,Liberia
+LBR,2002,3,Liberia
+LBR,2003,2,Liberia
+LBR,2008,1,Liberia
+LBR,2012,1,Liberia
+LBR,2014,1,Liberia
+LBR,2017,1,Liberia
+LBR,2019,1,Liberia
+LBR,2021,2,Liberia
+LBY,1979,3,Libya
+LBY,1980,2,Libya
+LBY,1984,3,Libya
+LBY,1992,1,Libya
+LBY,1995,1,Libya
+LBY,1996,4,Libya
+LBY,2007,1,Libya
+LBY,2008,1,Libya
+LBY,2011,2,Libya
+LBY,2012,57,Libya
+LBY,2013,291,Libya
+LBY,2014,729,Libya
+LBY,2015,543,Libya
+LBY,2016,422,Libya
+LBY,2017,191,Libya
+LBY,2018,167,Libya
+LBY,2019,70,Libya
+LBY,2020,17,Libya
+LBY,2021,8,Libya
+LKA,1975,1,Sri Lanka
+LKA,1979,3,Sri Lanka
+LKA,1981,2,Sri Lanka
+LKA,1982,2,Sri Lanka
+LKA,1983,7,Sri Lanka
+LKA,1984,81,Sri Lanka
+LKA,1985,110,Sri Lanka
+LKA,1986,142,Sri Lanka
+LKA,1987,115,Sri Lanka
+LKA,1988,350,Sri Lanka
+LKA,1989,510,Sri Lanka
+LKA,1990,140,Sri Lanka
+LKA,1991,115,Sri Lanka
+LKA,1992,103,Sri Lanka
+LKA,1994,35,Sri Lanka
+LKA,1995,126,Sri Lanka
+LKA,1996,176,Sri Lanka
+LKA,1997,63,Sri Lanka
+LKA,1998,35,Sri Lanka
+LKA,1999,46,Sri Lanka
+LKA,2000,67,Sri Lanka
+LKA,2001,36,Sri Lanka
+LKA,2002,3,Sri Lanka
+LKA,2003,9,Sri Lanka
+LKA,2004,33,Sri Lanka
+LKA,2005,133,Sri Lanka
+LKA,2006,216,Sri Lanka
+LKA,2007,132,Sri Lanka
+LKA,2008,100,Sri Lanka
+LKA,2009,37,Sri Lanka
+LKA,2010,3,Sri Lanka
+LKA,2012,4,Sri Lanka
+LKA,2013,14,Sri Lanka
+LKA,2014,16,Sri Lanka
+LKA,2015,11,Sri Lanka
+LKA,2016,1,Sri Lanka
+LKA,2017,41,Sri Lanka
+LKA,2018,7,Sri Lanka
+LKA,2019,15,Sri Lanka
+LKA,2020,1,Sri Lanka
+LKA,2021,1,Sri Lanka
+LSO,1979,2,Lesotho
+LSO,1981,5,Lesotho
+LSO,1982,2,Lesotho
+LSO,1983,12,Lesotho
+LSO,1984,1,Lesotho
+LSO,1988,1,Lesotho
+LSO,1994,3,Lesotho
+LSO,2006,1,Lesotho
+LSO,2009,1,Lesotho
+LSO,2015,1,Lesotho
+LTU,1991,1,Lithuania
+LTU,1992,1,Lithuania
+LTU,1995,2,Lithuania
+LTU,1996,3,Lithuania
+LTU,1997,1,Lithuania
+LTU,2018,1,Lithuania
+LTU,2019,1,Lithuania
+LUX,1983,2,Luxembourg
+LUX,1985,10,Luxembourg
+LUX,1986,1,Luxembourg
+LUX,1994,3,Luxembourg
+LVA,1992,2,Latvia
+LVA,1994,2,Latvia
+LVA,1995,1,Latvia
+LVA,1997,2,Latvia
+LVA,1998,4,Latvia
+LVA,1999,1,Latvia
+LVA,2000,3,Latvia
+LVA,2007,1,Latvia
+LVA,2017,1,Latvia
+LVA,2021,1,Latvia
+MAR,1973,2,Morocco
+MAR,1976,1,Morocco
+MAR,1978,1,Morocco
+MAR,1979,2,Morocco
+MAR,1985,2,Morocco
+MAR,1986,2,Morocco
+MAR,1987,4,Morocco
+MAR,1991,3,Morocco
+MAR,1992,1,Morocco
+MAR,1994,2,Morocco
+MAR,1995,1,Morocco
+MAR,1996,2,Morocco
+MAR,2003,5,Morocco
+MAR,2007,6,Morocco
+MAR,2011,1,Morocco
+MAR,2015,1,Morocco
+MAR,2018,1,Morocco
+MDG,1991,1,Madagascar
+MDG,1992,7,Madagascar
+MDG,1995,3,Madagascar
+MDG,1996,2,Madagascar
+MDG,1997,1,Madagascar
+MDG,2002,5,Madagascar
+MDG,2006,1,Madagascar
+MDG,2009,1,Madagascar
+MDG,2011,1,Madagascar
+MDG,2012,1,Madagascar
+MDG,2013,2,Madagascar
+MDG,2014,1,Madagascar
+MDG,2016,1,Madagascar
+MDV,1988,1,Maldives
+MDV,2006,1,Maldives
+MDV,2007,1,Maldives
+MDV,2008,1,Maldives
+MDV,2012,2,Maldives
+MDV,2013,3,Maldives
+MDV,2014,10,Maldives
+MDV,2015,2,Maldives
+MDV,2016,1,Maldives
+MDV,2017,2,Maldives
+MDV,2018,2,Maldives
+MDV,2019,1,Maldives
+MDV,2020,2,Maldives
+MDV,2021,1,Maldives
+MEX,1970,2,Mexico
+MEX,1972,1,Mexico
+MEX,1973,6,Mexico
+MEX,1974,16,Mexico
+MEX,1975,10,Mexico
+MEX,1976,20,Mexico
+MEX,1977,19,Mexico
+MEX,1978,30,Mexico
+MEX,1979,10,Mexico
+MEX,1980,5,Mexico
+MEX,1981,3,Mexico
+MEX,1982,3,Mexico
+MEX,1983,2,Mexico
+MEX,1984,4,Mexico
+MEX,1985,1,Mexico
+MEX,1986,2,Mexico
+MEX,1987,1,Mexico
+MEX,1988,3,Mexico
+MEX,1989,1,Mexico
+MEX,1990,5,Mexico
+MEX,1991,10,Mexico
+MEX,1992,6,Mexico
+MEX,1994,42,Mexico
+MEX,1995,29,Mexico
+MEX,1996,75,Mexico
+MEX,1997,95,Mexico
+MEX,1998,2,Mexico
+MEX,1999,1,Mexico
+MEX,2000,4,Mexico
+MEX,2001,7,Mexico
+MEX,2003,1,Mexico
+MEX,2004,1,Mexico
+MEX,2005,1,Mexico
+MEX,2006,7,Mexico
+MEX,2007,10,Mexico
+MEX,2008,8,Mexico
+MEX,2009,1,Mexico
+MEX,2010,5,Mexico
+MEX,2011,2,Mexico
+MEX,2012,16,Mexico
+MEX,2013,8,Mexico
+MEX,2014,5,Mexico
+MEX,2015,19,Mexico
+MEX,2016,7,Mexico
+MEX,2017,23,Mexico
+MEX,2018,27,Mexico
+MEX,2019,31,Mexico
+MEX,2020,13,Mexico
+MEX,2021,21,Mexico
+MKD,1994,1,North Macedonia
+MKD,1995,1,North Macedonia
+MKD,1997,2,North Macedonia
+MKD,1998,5,North Macedonia
+MKD,1999,3,North Macedonia
+MKD,2000,3,North Macedonia
+MKD,2001,67,North Macedonia
+MKD,2002,8,North Macedonia
+MKD,2003,5,North Macedonia
+MKD,2006,3,North Macedonia
+MKD,2007,1,North Macedonia
+MKD,2008,9,North Macedonia
+MKD,2009,1,North Macedonia
+MKD,2012,1,North Macedonia
+MKD,2014,3,North Macedonia
+MKD,2015,4,North Macedonia
+MKD,2017,1,North Macedonia
+MLI,1990,1,Mali
+MLI,1991,12,Mali
+MLI,1992,3,Mali
+MLI,1994,13,Mali
+MLI,1995,1,Mali
+MLI,1997,3,Mali
+MLI,2005,1,Mali
+MLI,2007,5,Mali
+MLI,2008,9,Mali
+MLI,2009,6,Mali
+MLI,2010,1,Mali
+MLI,2011,4,Mali
+MLI,2012,19,Mali
+MLI,2013,58,Mali
+MLI,2014,69,Mali
+MLI,2015,121,Mali
+MLI,2016,100,Mali
+MLI,2017,142,Mali
+MLI,2018,164,Mali
+MLI,2019,139,Mali
+MLI,2020,138,Mali
+MLI,2021,76,Mali
+MLT,1977,1,Malta
+MLT,1984,7,Malta
+MLT,1985,1,Malta
+MLT,1986,1,Malta
+MLT,1987,4,Malta
+MLT,1992,1,Malta
+MLT,1995,2,Malta
+MLT,1997,1,Malta
+MLT,2014,1,Malta
+MLT,2015,1,Malta
+MLT,2017,3,Malta
+MMR,1973,1,Myanmar
+MMR,1976,2,Myanmar
+MMR,1979,19,Myanmar
+MMR,1980,1,Myanmar
+MMR,1982,2,Myanmar
+MMR,1983,4,Myanmar
+MMR,1987,1,Myanmar
+MMR,1988,23,Myanmar
+MMR,1989,24,Myanmar
+MMR,1990,9,Myanmar
+MMR,1991,22,Myanmar
+MMR,1992,12,Myanmar
+MMR,1994,8,Myanmar
+MMR,1995,12,Myanmar
+MMR,1996,13,Myanmar
+MMR,1997,35,Myanmar
+MMR,1999,4,Myanmar
+MMR,2001,3,Myanmar
+MMR,2002,4,Myanmar
+MMR,2003,9,Myanmar
+MMR,2004,2,Myanmar
+MMR,2005,8,Myanmar
+MMR,2006,2,Myanmar
+MMR,2007,3,Myanmar
+MMR,2008,20,Myanmar
+MMR,2009,14,Myanmar
+MMR,2010,11,Myanmar
+MMR,2011,2,Myanmar
+MMR,2012,17,Myanmar
+MMR,2013,18,Myanmar
+MMR,2014,16,Myanmar
+MMR,2015,37,Myanmar
+MMR,2016,74,Myanmar
+MMR,2017,116,Myanmar
+MMR,2018,40,Myanmar
+MMR,2019,90,Myanmar
+MMR,2020,65,Myanmar
+MMR,2021,216,Myanmar
+MNE,2001,1,Montenegro
+MNE,2007,1,Montenegro
+MNE,2013,2,Montenegro
+MNE,2015,1,Montenegro
+MNE,2018,3,Montenegro
+MOZ,1978,2,Mozambique
+MOZ,1979,5,Mozambique
+MOZ,1981,3,Mozambique
+MOZ,1982,9,Mozambique
+MOZ,1983,4,Mozambique
+MOZ,1984,10,Mozambique
+MOZ,1985,5,Mozambique
+MOZ,1986,7,Mozambique
+MOZ,1987,11,Mozambique
+MOZ,1988,16,Mozambique
+MOZ,1989,64,Mozambique
+MOZ,1990,23,Mozambique
+MOZ,1991,35,Mozambique
+MOZ,1992,19,Mozambique
+MOZ,1994,3,Mozambique
+MOZ,1995,3,Mozambique
+MOZ,1999,1,Mozambique
+MOZ,2000,3,Mozambique
+MOZ,2007,1,Mozambique
+MOZ,2012,1,Mozambique
+MOZ,2013,18,Mozambique
+MOZ,2014,22,Mozambique
+MOZ,2015,8,Mozambique
+MOZ,2016,79,Mozambique
+MOZ,2017,15,Mozambique
+MOZ,2018,65,Mozambique
+MOZ,2019,133,Mozambique
+MOZ,2020,220,Mozambique
+MOZ,2021,41,Mozambique
+MRT,1977,4,Mauritania
+MRT,1996,1,Mauritania
+MRT,2004,1,Mauritania
+MRT,2005,1,Mauritania
+MRT,2008,2,Mauritania
+MRT,2009,5,Mauritania
+MRT,2010,1,Mauritania
+MRT,2011,3,Mauritania
+MRT,2018,1,Mauritania
+MUS,1988,1,Mauritius
+MUS,1989,1,Mauritius
+MWI,1992,3,Malawi
+MWI,2002,1,Malawi
+MWI,2017,1,Malawi
+MWI,2018,2,Malawi
+MWI,2019,5,Malawi
+MYS,1973,1,Malaysia
+MYS,1975,3,Malaysia
+MYS,1977,2,Malaysia
+MYS,1979,1,Malaysia
+MYS,1983,1,Malaysia
+MYS,1986,15,Malaysia
+MYS,1988,4,Malaysia
+MYS,1989,2,Malaysia
+MYS,1990,3,Malaysia
+MYS,1991,3,Malaysia
+MYS,1992,2,Malaysia
+MYS,2000,3,Malaysia
+MYS,2001,1,Malaysia
+MYS,2008,2,Malaysia
+MYS,2009,1,Malaysia
+MYS,2012,2,Malaysia
+MYS,2013,13,Malaysia
+MYS,2014,12,Malaysia
+MYS,2015,5,Malaysia
+MYS,2016,19,Malaysia
+MYS,2017,4,Malaysia
+MYS,2018,7,Malaysia
+MYS,2019,2,Malaysia
+MYS,2020,1,Malaysia
+NAM,1975,1,Namibia
+NAM,1976,2,Namibia
+NAM,1978,8,Namibia
+NAM,1979,31,Namibia
+NAM,1980,2,Namibia
+NAM,1982,2,Namibia
+NAM,1983,5,Namibia
+NAM,1984,24,Namibia
+NAM,1985,8,Namibia
+NAM,1986,1,Namibia
+NAM,1987,7,Namibia
+NAM,1988,17,Namibia
+NAM,1989,11,Namibia
+NAM,1990,2,Namibia
+NAM,1991,1,Namibia
+NAM,1994,1,Namibia
+NAM,1999,1,Namibia
+NAM,2000,21,Namibia
+NAM,2001,6,Namibia
+NCL,1984,10,New Caledonia
+NCL,1985,7,New Caledonia
+NCL,1986,2,New Caledonia
+NCL,1988,9,New Caledonia
+NCL,1989,1,New Caledonia
+NCL,1992,2,New Caledonia
+NCL,2017,1,New Caledonia
+NCL,2018,18,New Caledonia
+NCL,2019,1,New Caledonia
+NCL,2020,4,New Caledonia
+NGA,1976,1,Nigeria
+NGA,1980,1,Nigeria
+NGA,1983,3,Nigeria
+NGA,1985,1,Nigeria
+NGA,1988,2,Nigeria
+NGA,1989,1,Nigeria
+NGA,1991,9,Nigeria
+NGA,1992,27,Nigeria
+NGA,1994,16,Nigeria
+NGA,1995,3,Nigeria
+NGA,1996,12,Nigeria
+NGA,1997,23,Nigeria
+NGA,1998,2,Nigeria
+NGA,1999,20,Nigeria
+NGA,2000,6,Nigeria
+NGA,2001,5,Nigeria
+NGA,2002,6,Nigeria
+NGA,2003,9,Nigeria
+NGA,2004,6,Nigeria
+NGA,2005,9,Nigeria
+NGA,2006,37,Nigeria
+NGA,2007,68,Nigeria
+NGA,2008,85,Nigeria
+NGA,2009,46,Nigeria
+NGA,2010,66,Nigeria
+NGA,2011,177,Nigeria
+NGA,2012,616,Nigeria
+NGA,2013,351,Nigeria
+NGA,2014,718,Nigeria
+NGA,2015,682,Nigeria
+NGA,2016,560,Nigeria
+NGA,2017,501,Nigeria
+NGA,2018,669,Nigeria
+NGA,2019,556,Nigeria
+NGA,2020,513,Nigeria
+NGA,2021,486,Nigeria
+NIC,1970,1,Nicaragua
+NIC,1974,1,Nicaragua
+NIC,1975,1,Nicaragua
+NIC,1977,5,Nicaragua
+NIC,1978,76,Nicaragua
+NIC,1979,206,Nicaragua
+NIC,1980,35,Nicaragua
+NIC,1981,47,Nicaragua
+NIC,1982,63,Nicaragua
+NIC,1983,299,Nicaragua
+NIC,1984,302,Nicaragua
+NIC,1985,258,Nicaragua
+NIC,1986,171,Nicaragua
+NIC,1987,223,Nicaragua
+NIC,1988,62,Nicaragua
+NIC,1989,21,Nicaragua
+NIC,1990,15,Nicaragua
+NIC,1991,80,Nicaragua
+NIC,1992,30,Nicaragua
+NIC,1994,19,Nicaragua
+NIC,1995,18,Nicaragua
+NIC,1996,26,Nicaragua
+NIC,1997,7,Nicaragua
+NIC,1999,1,Nicaragua
+NIC,2000,1,Nicaragua
+NIC,2014,2,Nicaragua
+NIC,2018,7,Nicaragua
+NIC,2019,3,Nicaragua
+NIC,2020,3,Nicaragua
+NOR,1979,1,Norway
+NOR,1981,1,Norway
+NOR,1987,2,Norway
+NOR,1991,2,Norway
+NOR,1992,2,Norway
+NOR,1994,2,Norway
+NOR,1996,1,Norway
+NOR,2001,1,Norway
+NOR,2003,1,Norway
+NOR,2006,1,Norway
+NOR,2010,1,Norway
+NOR,2011,3,Norway
+NOR,2017,1,Norway
+NOR,2019,3,Norway
+NOR,2020,2,Norway
+NPL,1985,9,Nepal
+NPL,1991,1,Nepal
+NPL,1992,8,Nepal
+NPL,1994,3,Nepal
+NPL,1996,5,Nepal
+NPL,1997,9,Nepal
+NPL,1999,8,Nepal
+NPL,2000,23,Nepal
+NPL,2001,33,Nepal
+NPL,2002,58,Nepal
+NPL,2003,15,Nepal
+NPL,2004,62,Nepal
+NPL,2005,70,Nepal
+NPL,2006,83,Nepal
+NPL,2007,90,Nepal
+NPL,2008,120,Nepal
+NPL,2009,39,Nepal
+NPL,2010,38,Nepal
+NPL,2011,46,Nepal
+NPL,2012,46,Nepal
+NPL,2013,104,Nepal
+NPL,2014,7,Nepal
+NPL,2015,48,Nepal
+NPL,2016,43,Nepal
+NPL,2017,247,Nepal
+NPL,2018,99,Nepal
+NPL,2019,200,Nepal
+NPL,2020,37,Nepal
+NPL,2021,3,Nepal
+NZL,1973,1,New Zealand
+NZL,1981,2,New Zealand
+NZL,1984,1,New Zealand
+NZL,1991,1,New Zealand
+NZL,1994,1,New Zealand
+NZL,1996,2,New Zealand
+NZL,1997,1,New Zealand
+NZL,2001,1,New Zealand
+NZL,2003,3,New Zealand
+NZL,2008,4,New Zealand
+NZL,2014,1,New Zealand
+NZL,2016,1,New Zealand
+NZL,2019,2,New Zealand
+NZL,2020,12,New Zealand
+PAK,1970,1,Pakistan
+PAK,1974,2,Pakistan
+PAK,1975,2,Pakistan
+PAK,1976,3,Pakistan
+PAK,1978,2,Pakistan
+PAK,1979,7,Pakistan
+PAK,1980,1,Pakistan
+PAK,1981,4,Pakistan
+PAK,1982,4,Pakistan
+PAK,1983,9,Pakistan
+PAK,1984,3,Pakistan
+PAK,1985,2,Pakistan
+PAK,1986,24,Pakistan
+PAK,1987,60,Pakistan
+PAK,1988,44,Pakistan
+PAK,1989,45,Pakistan
+PAK,1990,87,Pakistan
+PAK,1991,150,Pakistan
+PAK,1992,85,Pakistan
+PAK,1994,154,Pakistan
+PAK,1995,666,Pakistan
+PAK,1996,180,Pakistan
+PAK,1997,206,Pakistan
+PAK,1998,37,Pakistan
+PAK,1999,39,Pakistan
+PAK,2000,49,Pakistan
+PAK,2001,53,Pakistan
+PAK,2002,46,Pakistan
+PAK,2003,29,Pakistan
+PAK,2004,67,Pakistan
+PAK,2005,77,Pakistan
+PAK,2006,164,Pakistan
+PAK,2007,260,Pakistan
+PAK,2008,568,Pakistan
+PAK,2009,667,Pakistan
+PAK,2010,713,Pakistan
+PAK,2011,1012,Pakistan
+PAK,2012,1655,Pakistan
+PAK,2013,2215,Pakistan
+PAK,2014,2149,Pakistan
+PAK,2015,1243,Pakistan
+PAK,2016,864,Pakistan
+PAK,2017,719,Pakistan
+PAK,2018,480,Pakistan
+PAK,2019,363,Pakistan
+PAK,2020,294,Pakistan
+PAK,2021,150,Pakistan
+PAN,1972,1,Panama
+PAN,1976,2,Panama
+PAN,1979,4,Panama
+PAN,1980,4,Panama
+PAN,1981,4,Panama
+PAN,1983,9,Panama
+PAN,1984,2,Panama
+PAN,1986,5,Panama
+PAN,1987,4,Panama
+PAN,1988,1,Panama
+PAN,1989,2,Panama
+PAN,1990,15,Panama
+PAN,1991,16,Panama
+PAN,1992,37,Panama
+PAN,1994,3,Panama
+PAN,1995,6,Panama
+PAN,1996,2,Panama
+PAN,1997,6,Panama
+PAN,1999,1,Panama
+PAN,2000,1,Panama
+PAN,2009,1,Panama
+PAN,2016,1,Panama
+PER,1973,3,Peru
+PER,1974,3,Peru
+PER,1975,2,Peru
+PER,1977,4,Peru
+PER,1978,4,Peru
+PER,1979,3,Peru
+PER,1980,64,Peru
+PER,1981,149,Peru
+PER,1982,350,Peru
+PER,1983,536,Peru
+PER,1984,592,Peru
+PER,1985,352,Peru
+PER,1986,568,Peru
+PER,1987,627,Peru
+PER,1988,355,Peru
+PER,1989,630,Peru
+PER,1990,495,Peru
+PER,1991,658,Peru
+PER,1992,383,Peru
+PER,1994,91,Peru
+PER,1995,44,Peru
+PER,1996,42,Peru
+PER,1997,58,Peru
+PER,1998,5,Peru
+PER,1999,5,Peru
+PER,2000,3,Peru
+PER,2001,3,Peru
+PER,2002,2,Peru
+PER,2003,1,Peru
+PER,2004,3,Peru
+PER,2005,2,Peru
+PER,2006,1,Peru
+PER,2007,4,Peru
+PER,2008,1,Peru
+PER,2009,4,Peru
+PER,2012,9,Peru
+PER,2013,13,Peru
+PER,2014,12,Peru
+PER,2015,10,Peru
+PER,2016,4,Peru
+PER,2017,8,Peru
+PER,2018,5,Peru
+PER,2019,1,Peru
+PER,2020,2,Peru
+PER,2021,5,Peru
+PHL,1970,10,Philippines
+PHL,1971,4,Philippines
+PHL,1972,7,Philippines
+PHL,1974,1,Philippines
+PHL,1975,4,Philippines
+PHL,1976,10,Philippines
+PHL,1977,2,Philippines
+PHL,1978,36,Philippines
+PHL,1979,50,Philippines
+PHL,1980,60,Philippines
+PHL,1981,31,Philippines
+PHL,1982,38,Philippines
+PHL,1983,16,Philippines
+PHL,1984,43,Philippines
+PHL,1985,124,Philippines
+PHL,1986,80,Philippines
+PHL,1987,160,Philippines
+PHL,1988,210,Philippines
+PHL,1989,156,Philippines
+PHL,1990,320,Philippines
+PHL,1991,162,Philippines
+PHL,1992,162,Philippines
+PHL,1994,72,Philippines
+PHL,1995,63,Philippines
+PHL,1996,61,Philippines
+PHL,1997,57,Philippines
+PHL,1998,18,Philippines
+PHL,1999,31,Philippines
+PHL,2000,132,Philippines
+PHL,2001,50,Philippines
+PHL,2002,48,Philippines
+PHL,2003,107,Philippines
+PHL,2004,31,Philippines
+PHL,2005,25,Philippines
+PHL,2006,58,Philippines
+PHL,2007,65,Philippines
+PHL,2008,276,Philippines
+PHL,2009,229,Philippines
+PHL,2010,204,Philippines
+PHL,2011,151,Philippines
+PHL,2012,249,Philippines
+PHL,2013,651,Philippines
+PHL,2014,597,Philippines
+PHL,2015,721,Philippines
+PHL,2016,632,Philippines
+PHL,2017,695,Philippines
+PHL,2018,601,Philippines
+PHL,2019,467,Philippines
+PHL,2020,294,Philippines
+PHL,2021,104,Philippines
+PNG,1989,24,Papua New Guinea
+PNG,1990,18,Papua New Guinea
+PNG,1991,2,Papua New Guinea
+PNG,1992,10,Papua New Guinea
+PNG,1994,3,Papua New Guinea
+PNG,1995,10,Papua New Guinea
+PNG,1996,10,Papua New Guinea
+PNG,1997,2,Papua New Guinea
+PNG,2002,1,Papua New Guinea
+PNG,2007,1,Papua New Guinea
+PNG,2017,8,Papua New Guinea
+POL,1971,1,Poland
+POL,1979,1,Poland
+POL,1981,1,Poland
+POL,1990,7,Poland
+POL,1992,5,Poland
+POL,1994,4,Poland
+POL,1995,4,Poland
+POL,1996,6,Poland
+POL,1997,3,Poland
+POL,1998,2,Poland
+POL,2001,1,Poland
+POL,2010,1,Poland
+POL,2016,2,Poland
+POL,2017,1,Poland
+POL,2018,1,Poland
+POL,2020,2,Poland
+PRT,1972,1,Portugal
+PRT,1973,1,Portugal
+PRT,1975,4,Portugal
+PRT,1976,15,Portugal
+PRT,1977,15,Portugal
+PRT,1978,4,Portugal
+PRT,1979,15,Portugal
+PRT,1980,8,Portugal
+PRT,1981,10,Portugal
+PRT,1982,3,Portugal
+PRT,1983,9,Portugal
+PRT,1984,14,Portugal
+PRT,1985,20,Portugal
+PRT,1986,11,Portugal
+PRT,1988,2,Portugal
+PRT,1989,1,Portugal
+PRT,1992,1,Portugal
+PRT,1994,1,Portugal
+PRT,1995,3,Portugal
+PRT,2011,2,Portugal
+PRT,2020,1,Portugal
+PRY,1970,1,Paraguay
+PRY,1976,1,Paraguay
+PRY,1980,2,Paraguay
+PRY,1984,2,Paraguay
+PRY,1985,1,Paraguay
+PRY,1987,1,Paraguay
+PRY,1992,4,Paraguay
+PRY,1994,2,Paraguay
+PRY,1995,12,Paraguay
+PRY,1997,6,Paraguay
+PRY,1999,1,Paraguay
+PRY,2000,2,Paraguay
+PRY,2010,2,Paraguay
+PRY,2011,4,Paraguay
+PRY,2012,4,Paraguay
+PRY,2013,10,Paraguay
+PRY,2014,15,Paraguay
+PRY,2015,19,Paraguay
+PRY,2016,15,Paraguay
+PRY,2017,10,Paraguay
+PRY,2018,4,Paraguay
+PRY,2020,2,Paraguay
+PRY,2021,3,Paraguay
+QAT,1982,1,Qatar
+QAT,1989,1,Qatar
+QAT,1996,1,Qatar
+QAT,2000,1,Qatar
+QAT,2001,1,Qatar
+QAT,2005,1,Qatar
+QAT,2015,1,Qatar
+ROU,1984,1,Romania
+ROU,1985,1,Romania
+ROU,1991,1,Romania
+ROU,1992,1,Romania
+ROU,1995,1,Romania
+ROU,2008,1,Romania
+RUS,1992,21,Russian Federation
+RUS,1994,47,Russian Federation
+RUS,1995,37,Russian Federation
+RUS,1996,66,Russian Federation
+RUS,1997,77,Russian Federation
+RUS,1998,26,Russian Federation
+RUS,1999,54,Russian Federation
+RUS,2000,138,Russian Federation
+RUS,2001,135,Russian Federation
+RUS,2002,89,Russian Federation
+RUS,2003,76,Russian Federation
+RUS,2004,43,Russian Federation
+RUS,2005,64,Russian Federation
+RUS,2006,56,Russian Federation
+RUS,2007,51,Russian Federation
+RUS,2008,170,Russian Federation
+RUS,2009,152,Russian Federation
+RUS,2010,251,Russian Federation
+RUS,2011,188,Russian Federation
+RUS,2012,151,Russian Federation
+RUS,2013,145,Russian Federation
+RUS,2014,48,Russian Federation
+RUS,2015,22,Russian Federation
+RUS,2016,56,Russian Federation
+RUS,2017,34,Russian Federation
+RUS,2018,23,Russian Federation
+RUS,2019,10,Russian Federation
+RUS,2020,12,Russian Federation
+RWA,1991,3,Rwanda
+RWA,1992,18,Rwanda
+RWA,1994,33,Rwanda
+RWA,1995,17,Rwanda
+RWA,1996,15,Rwanda
+RWA,1997,33,Rwanda
+RWA,1998,9,Rwanda
+RWA,2000,1,Rwanda
+RWA,2001,2,Rwanda
+RWA,2005,1,Rwanda
+RWA,2008,1,Rwanda
+RWA,2009,1,Rwanda
+RWA,2010,8,Rwanda
+RWA,2011,2,Rwanda
+RWA,2012,6,Rwanda
+RWA,2013,4,Rwanda
+RWA,2014,2,Rwanda
+RWA,2016,1,Rwanda
+RWA,2017,2,Rwanda
+RWA,2018,5,Rwanda
+RWA,2019,3,Rwanda
+RWA,2020,1,Rwanda
+RWA,2021,1,Rwanda
+SAU,1977,1,Saudi Arabia
+SAU,1979,1,Saudi Arabia
+SAU,1984,2,Saudi Arabia
+SAU,1985,2,Saudi Arabia
+SAU,1986,1,Saudi Arabia
+SAU,1988,1,Saudi Arabia
+SAU,1989,3,Saudi Arabia
+SAU,1991,2,Saudi Arabia
+SAU,1994,2,Saudi Arabia
+SAU,1995,3,Saudi Arabia
+SAU,1996,1,Saudi Arabia
+SAU,2000,5,Saudi Arabia
+SAU,2001,3,Saudi Arabia
+SAU,2002,2,Saudi Arabia
+SAU,2003,8,Saudi Arabia
+SAU,2004,17,Saudi Arabia
+SAU,2005,1,Saudi Arabia
+SAU,2006,3,Saudi Arabia
+SAU,2007,1,Saudi Arabia
+SAU,2009,3,Saudi Arabia
+SAU,2011,2,Saudi Arabia
+SAU,2012,6,Saudi Arabia
+SAU,2013,6,Saudi Arabia
+SAU,2014,14,Saudi Arabia
+SAU,2015,104,Saudi Arabia
+SAU,2016,134,Saudi Arabia
+SAU,2017,57,Saudi Arabia
+SAU,2018,94,Saudi Arabia
+SAU,2019,43,Saudi Arabia
+SAU,2020,60,Saudi Arabia
+SAU,2021,94,Saudi Arabia
+SDN,1973,1,Sudan
+SDN,1981,1,Sudan
+SDN,1982,3,Sudan
+SDN,1983,3,Sudan
+SDN,1984,5,Sudan
+SDN,1986,6,Sudan
+SDN,1987,1,Sudan
+SDN,1988,10,Sudan
+SDN,1989,8,Sudan
+SDN,1990,1,Sudan
+SDN,1991,3,Sudan
+SDN,1992,7,Sudan
+SDN,1994,5,Sudan
+SDN,1995,4,Sudan
+SDN,1996,10,Sudan
+SDN,1997,3,Sudan
+SDN,1999,5,Sudan
+SDN,2000,7,Sudan
+SDN,2001,9,Sudan
+SDN,2002,13,Sudan
+SDN,2004,5,Sudan
+SDN,2005,6,Sudan
+SDN,2006,24,Sudan
+SDN,2007,23,Sudan
+SDN,2008,32,Sudan
+SDN,2009,26,Sudan
+SDN,2010,28,Sudan
+SDN,2011,38,Sudan
+SDN,2012,40,Sudan
+SDN,2013,46,Sudan
+SDN,2014,157,Sudan
+SDN,2015,158,Sudan
+SDN,2016,173,Sudan
+SDN,2017,106,Sudan
+SDN,2018,42,Sudan
+SDN,2019,26,Sudan
+SDN,2020,33,Sudan
+SDN,2021,13,Sudan
+SEN,1980,1,Senegal
+SEN,1988,3,Senegal
+SEN,1990,11,Senegal
+SEN,1991,4,Senegal
+SEN,1992,15,Senegal
+SEN,1994,2,Senegal
+SEN,1995,8,Senegal
+SEN,1997,26,Senegal
+SEN,1998,1,Senegal
+SEN,1999,1,Senegal
+SEN,2000,4,Senegal
+SEN,2001,8,Senegal
+SEN,2002,3,Senegal
+SEN,2005,1,Senegal
+SEN,2007,1,Senegal
+SEN,2008,2,Senegal
+SEN,2009,3,Senegal
+SEN,2010,1,Senegal
+SEN,2011,4,Senegal
+SEN,2012,12,Senegal
+SEN,2013,3,Senegal
+SEN,2014,2,Senegal
+SEN,2015,2,Senegal
+SEN,2018,3,Senegal
+SEN,2019,1,Senegal
+SGP,1974,1,Singapore
+SGP,1985,1,Singapore
+SGP,1987,2,Singapore
+SGP,1991,1,Singapore
+SGP,1992,1,Singapore
+SGP,1994,1,Singapore
+SLB,1999,1,Solomon Islands
+SLB,2000,1,Solomon Islands
+SLB,2002,1,Solomon Islands
+SLB,2003,1,Solomon Islands
+SLE,1991,9,Sierra Leone
+SLE,1992,4,Sierra Leone
+SLE,1994,22,Sierra Leone
+SLE,1995,14,Sierra Leone
+SLE,1996,5,Sierra Leone
+SLE,1997,3,Sierra Leone
+SLE,1998,7,Sierra Leone
+SLE,1999,9,Sierra Leone
+SLE,2000,24,Sierra Leone
+SLE,2016,1,Sierra Leone
+SLE,2017,3,Sierra Leone
+SLV,1972,2,El Salvador
+SLV,1973,1,El Salvador
+SLV,1974,3,El Salvador
+SLV,1975,3,El Salvador
+SLV,1976,13,El Salvador
+SLV,1977,6,El Salvador
+SLV,1978,91,El Salvador
+SLV,1979,326,El Salvador
+SLV,1980,710,El Salvador
+SLV,1981,664,El Salvador
+SLV,1982,537,El Salvador
+SLV,1983,371,El Salvador
+SLV,1984,273,El Salvador
+SLV,1985,436,El Salvador
+SLV,1986,175,El Salvador
+SLV,1987,234,El Salvador
+SLV,1988,367,El Salvador
+SLV,1989,356,El Salvador
+SLV,1990,184,El Salvador
+SLV,1991,500,El Salvador
+SLV,1992,29,El Salvador
+SLV,1994,21,El Salvador
+SLV,1995,9,El Salvador
+SLV,1996,7,El Salvador
+SLV,1997,2,El Salvador
+SLV,2021,1,El Salvador
+SOM,1975,1,Somalia
+SOM,1980,1,Somalia
+SOM,1981,8,Somalia
+SOM,1983,1,Somalia
+SOM,1984,2,Somalia
+SOM,1987,1,Somalia
+SOM,1988,2,Somalia
+SOM,1989,2,Somalia
+SOM,1990,12,Somalia
+SOM,1991,8,Somalia
+SOM,1992,21,Somalia
+SOM,1994,57,Somalia
+SOM,1995,13,Somalia
+SOM,1996,16,Somalia
+SOM,1997,19,Somalia
+SOM,1998,1,Somalia
+SOM,1999,4,Somalia
+SOM,2000,9,Somalia
+SOM,2001,5,Somalia
+SOM,2002,3,Somalia
+SOM,2003,1,Somalia
+SOM,2004,1,Somalia
+SOM,2005,6,Somalia
+SOM,2006,10,Somalia
+SOM,2007,156,Somalia
+SOM,2008,172,Somalia
+SOM,2009,122,Somalia
+SOM,2010,130,Somalia
+SOM,2011,185,Somalia
+SOM,2012,325,Somalia
+SOM,2013,342,Somalia
+SOM,2014,872,Somalia
+SOM,2015,422,Somalia
+SOM,2016,602,Somalia
+SOM,2017,617,Somalia
+SOM,2018,527,Somalia
+SOM,2019,361,Somalia
+SOM,2020,280,Somalia
+SOM,2021,125,Somalia
+SSD,2012,5,South Sudan
+SSD,2013,13,South Sudan
+SSD,2014,40,South Sudan
+SSD,2015,54,South Sudan
+SSD,2016,59,South Sudan
+SSD,2017,54,South Sudan
+SSD,2018,69,South Sudan
+SSD,2019,13,South Sudan
+SSD,2020,16,South Sudan
+SSD,2021,14,South Sudan
+SUR,1982,1,Suriname
+SUR,1983,1,Suriname
+SUR,1984,1,Suriname
+SUR,1986,8,Suriname
+SUR,1987,13,Suriname
+SUR,1988,9,Suriname
+SUR,1989,17,Suriname
+SUR,1990,7,Suriname
+SUR,1991,1,Suriname
+SUR,1992,5,Suriname
+SUR,1994,1,Suriname
+SUR,1997,2,Suriname
+SVK,1994,1,Slovakia
+SVK,1995,3,Slovakia
+SVK,1996,5,Slovakia
+SVK,1997,4,Slovakia
+SVK,1998,2,Slovakia
+SVK,1999,1,Slovakia
+SVK,2000,1,Slovakia
+SVK,2016,1,Slovakia
+SVK,2018,1,Slovakia
+SVN,1994,1,Slovenia
+SVN,1996,3,Slovenia
+SVN,1997,1,Slovenia
+SVN,2000,1,Slovenia
+SWE,1971,2,Sweden
+SWE,1972,3,Sweden
+SWE,1975,1,Sweden
+SWE,1978,1,Sweden
+SWE,1979,1,Sweden
+SWE,1983,1,Sweden
+SWE,1986,3,Sweden
+SWE,1989,3,Sweden
+SWE,1990,6,Sweden
+SWE,1991,6,Sweden
+SWE,1992,12,Sweden
+SWE,1994,1,Sweden
+SWE,1995,1,Sweden
+SWE,1996,1,Sweden
+SWE,1997,4,Sweden
+SWE,1999,2,Sweden
+SWE,2000,1,Sweden
+SWE,2005,3,Sweden
+SWE,2006,1,Sweden
+SWE,2008,1,Sweden
+SWE,2009,1,Sweden
+SWE,2010,3,Sweden
+SWE,2011,1,Sweden
+SWE,2012,2,Sweden
+SWE,2014,5,Sweden
+SWE,2015,35,Sweden
+SWE,2016,16,Sweden
+SWE,2017,18,Sweden
+SWE,2018,6,Sweden
+SWE,2019,2,Sweden
+SWE,2020,3,Sweden
+SWE,2021,5,Sweden
+SYC,1981,2,Seychelles
+TCD,1974,1,Chad
+TCD,1984,1,Chad
+TCD,1985,1,Chad
+TCD,1986,1,Chad
+TCD,1991,2,Chad
+TCD,1992,4,Chad
+TCD,1994,1,Chad
+TCD,1995,3,Chad
+TCD,1996,1,Chad
+TCD,1997,1,Chad
+TCD,1998,1,Chad
+TCD,1999,1,Chad
+TCD,2002,4,Chad
+TCD,2006,11,Chad
+TCD,2007,7,Chad
+TCD,2008,8,Chad
+TCD,2009,3,Chad
+TCD,2010,1,Chad
+TCD,2014,1,Chad
+TCD,2015,27,Chad
+TCD,2016,5,Chad
+TCD,2017,6,Chad
+TCD,2018,12,Chad
+TCD,2019,14,Chad
+TCD,2020,15,Chad
+TCD,2021,2,Chad
+TGO,1985,3,Togo
+TGO,1991,2,Togo
+TGO,1992,27,Togo
+TGO,1994,13,Togo
+TGO,1995,1,Togo
+TGO,1996,1,Togo
+TGO,2005,1,Togo
+THA,1972,1,Thailand
+THA,1974,1,Thailand
+THA,1977,3,Thailand
+THA,1978,5,Thailand
+THA,1979,16,Thailand
+THA,1980,26,Thailand
+THA,1981,18,Thailand
+THA,1982,3,Thailand
+THA,1983,1,Thailand
+THA,1984,1,Thailand
+THA,1985,1,Thailand
+THA,1986,3,Thailand
+THA,1988,5,Thailand
+THA,1989,16,Thailand
+THA,1990,10,Thailand
+THA,1991,8,Thailand
+THA,1992,25,Thailand
+THA,1994,24,Thailand
+THA,1995,12,Thailand
+THA,1996,19,Thailand
+THA,1997,20,Thailand
+THA,1998,4,Thailand
+THA,1999,4,Thailand
+THA,2000,4,Thailand
+THA,2001,14,Thailand
+THA,2002,12,Thailand
+THA,2003,6,Thailand
+THA,2004,44,Thailand
+THA,2005,155,Thailand
+THA,2006,202,Thailand
+THA,2007,293,Thailand
+THA,2008,200,Thailand
+THA,2009,298,Thailand
+THA,2010,253,Thailand
+THA,2011,182,Thailand
+THA,2012,280,Thailand
+THA,2013,472,Thailand
+THA,2014,423,Thailand
+THA,2015,278,Thailand
+THA,2016,329,Thailand
+THA,2017,179,Thailand
+THA,2018,182,Thailand
+THA,2019,130,Thailand
+THA,2020,39,Thailand
+THA,2021,27,Thailand
+TJK,1992,17,Tajikistan
+TJK,1994,31,Tajikistan
+TJK,1995,34,Tajikistan
+TJK,1996,22,Tajikistan
+TJK,1997,40,Tajikistan
+TJK,1998,11,Tajikistan
+TJK,1999,4,Tajikistan
+TJK,2000,6,Tajikistan
+TJK,2001,6,Tajikistan
+TJK,2005,1,Tajikistan
+TJK,2007,1,Tajikistan
+TJK,2009,1,Tajikistan
+TJK,2010,1,Tajikistan
+TJK,2012,5,Tajikistan
+TJK,2014,1,Tajikistan
+TJK,2015,3,Tajikistan
+TJK,2016,2,Tajikistan
+TJK,2017,2,Tajikistan
+TJK,2018,3,Tajikistan
+TJK,2019,2,Tajikistan
+TKM,2002,1,Turkmenistan
+TKM,2014,1,Turkmenistan
+TTO,1976,1,Trinidad and Tobago
+TTO,1979,1,Trinidad and Tobago
+TTO,1981,1,Trinidad and Tobago
+TTO,1983,1,Trinidad and Tobago
+TTO,1989,1,Trinidad and Tobago
+TTO,1991,1,Trinidad and Tobago
+TTO,1992,1,Trinidad and Tobago
+TTO,1994,1,Trinidad and Tobago
+TTO,1995,4,Trinidad and Tobago
+TTO,1996,3,Trinidad and Tobago
+TTO,2005,2,Trinidad and Tobago
+TTO,2010,1,Trinidad and Tobago
+TTO,2013,3,Trinidad and Tobago
+TTO,2015,1,Trinidad and Tobago
+TTO,2018,1,Trinidad and Tobago
+TTO,2019,1,Trinidad and Tobago
+TTO,2020,1,Trinidad and Tobago
+TUN,1979,1,Tunisia
+TUN,1980,1,Tunisia
+TUN,1986,2,Tunisia
+TUN,1987,4,Tunisia
+TUN,1991,2,Tunisia
+TUN,1994,1,Tunisia
+TUN,1995,1,Tunisia
+TUN,2000,1,Tunisia
+TUN,2001,1,Tunisia
+TUN,2002,1,Tunisia
+TUN,2007,1,Tunisia
+TUN,2008,1,Tunisia
+TUN,2011,3,Tunisia
+TUN,2012,3,Tunisia
+TUN,2013,29,Tunisia
+TUN,2014,23,Tunisia
+TUN,2015,19,Tunisia
+TUN,2016,12,Tunisia
+TUN,2017,4,Tunisia
+TUN,2018,19,Tunisia
+TUN,2019,16,Tunisia
+TUN,2020,5,Tunisia
+TUN,2021,4,Tunisia
+UGA,1979,8,Uganda
+UGA,1981,25,Uganda
+UGA,1982,1,Uganda
+UGA,1983,6,Uganda
+UGA,1984,3,Uganda
+UGA,1985,7,Uganda
+UGA,1986,1,Uganda
+UGA,1987,1,Uganda
+UGA,1988,15,Uganda
+UGA,1989,15,Uganda
+UGA,1990,14,Uganda
+UGA,1991,2,Uganda
+UGA,1992,3,Uganda
+UGA,1994,13,Uganda
+UGA,1995,7,Uganda
+UGA,1996,29,Uganda
+UGA,1997,24,Uganda
+UGA,1998,18,Uganda
+UGA,1999,19,Uganda
+UGA,2000,20,Uganda
+UGA,2001,24,Uganda
+UGA,2002,24,Uganda
+UGA,2003,30,Uganda
+UGA,2004,10,Uganda
+UGA,2005,11,Uganda
+UGA,2007,1,Uganda
+UGA,2008,7,Uganda
+UGA,2009,2,Uganda
+UGA,2010,6,Uganda
+UGA,2012,4,Uganda
+UGA,2014,6,Uganda
+UGA,2015,10,Uganda
+UGA,2016,15,Uganda
+UGA,2017,13,Uganda
+UGA,2018,10,Uganda
+UGA,2019,4,Uganda
+UGA,2020,5,Uganda
+UGA,2021,11,Uganda
+UKR,1991,2,Ukraine
+UKR,1992,1,Ukraine
+UKR,1994,10,Ukraine
+UKR,1995,2,Ukraine
+UKR,1996,3,Ukraine
+UKR,1997,2,Ukraine
+UKR,1999,6,Ukraine
+UKR,2000,1,Ukraine
+UKR,2002,3,Ukraine
+UKR,2003,1,Ukraine
+UKR,2007,1,Ukraine
+UKR,2008,1,Ukraine
+UKR,2009,2,Ukraine
+UKR,2010,4,Ukraine
+UKR,2011,3,Ukraine
+UKR,2012,8,Ukraine
+UKR,2013,5,Ukraine
+UKR,2014,896,Ukraine
+UKR,2015,638,Ukraine
+UKR,2016,62,Ukraine
+UKR,2017,62,Ukraine
+UKR,2018,36,Ukraine
+UKR,2019,31,Ukraine
+UKR,2020,38,Ukraine
+UKR,2021,10,Ukraine
+URY,1970,33,Uruguay
+URY,1971,8,Uruguay
+URY,1972,7,Uruguay
+URY,1984,4,Uruguay
+URY,1985,2,Uruguay
+URY,1986,2,Uruguay
+URY,1989,1,Uruguay
+URY,1990,1,Uruguay
+URY,1991,3,Uruguay
+URY,1992,11,Uruguay
+URY,1994,4,Uruguay
+URY,1995,1,Uruguay
+URY,1996,1,Uruguay
+URY,1997,2,Uruguay
+URY,2005,1,Uruguay
+URY,2016,1,Uruguay
+USA,1970,468,United States
+USA,1971,247,United States
+USA,1972,68,United States
+USA,1973,58,United States
+USA,1974,94,United States
+USA,1975,149,United States
+USA,1976,105,United States
+USA,1977,130,United States
+USA,1978,87,United States
+USA,1979,69,United States
+USA,1980,67,United States
+USA,1981,74,United States
+USA,1982,77,United States
+USA,1983,44,United States
+USA,1984,63,United States
+USA,1985,40,United States
+USA,1986,49,United States
+USA,1987,34,United States
+USA,1988,27,United States
+USA,1989,42,United States
+USA,1990,32,United States
+USA,1991,31,United States
+USA,1992,32,United States
+USA,1994,55,United States
+USA,1995,60,United States
+USA,1996,35,United States
+USA,1997,42,United States
+USA,1998,31,United States
+USA,1999,54,United States
+USA,2000,42,United States
+USA,2001,47,United States
+USA,2002,33,United States
+USA,2003,35,United States
+USA,2004,9,United States
+USA,2005,21,United States
+USA,2006,6,United States
+USA,2007,11,United States
+USA,2008,18,United States
+USA,2009,12,United States
+USA,2010,19,United States
+USA,2011,9,United States
+USA,2012,20,United States
+USA,2013,20,United States
+USA,2014,29,United States
+USA,2015,41,United States
+USA,2016,68,United States
+USA,2017,66,United States
+USA,2018,76,United States
+USA,2019,72,United States
+USA,2020,103,United States
+USA,2021,26,United States
+UZB,1992,2,Uzbekistan
+UZB,1995,1,Uzbekistan
+UZB,1999,8,Uzbekistan
+UZB,2004,5,Uzbekistan
+UZB,2005,2,Uzbekistan
+UZB,2009,2,Uzbekistan
+UZB,2015,1,Uzbekistan
+VAT,1981,1,Holy See (Vatican City State)
+VNM,1992,1,Viet Nam
+VNM,1994,1,Viet Nam
+VNM,1995,1,Viet Nam
+VNM,1996,1,Viet Nam
+VNM,1997,2,Viet Nam
+VNM,2001,4,Viet Nam
+VNM,2017,2,Viet Nam
+VNM,2018,1,Viet Nam
+VUT,1996,2,Vanuatu
+YEM,1991,5,Yemen
+YEM,1992,24,Yemen
+YEM,1994,19,Yemen
+YEM,1995,8,Yemen
+YEM,1996,8,Yemen
+YEM,1997,19,Yemen
+YEM,1998,7,Yemen
+YEM,1999,17,Yemen
+YEM,2000,10,Yemen
+YEM,2001,7,Yemen
+YEM,2002,7,Yemen
+YEM,2003,7,Yemen
+YEM,2005,7,Yemen
+YEM,2006,5,Yemen
+YEM,2007,7,Yemen
+YEM,2008,22,Yemen
+YEM,2009,23,Yemen
+YEM,2010,112,Yemen
+YEM,2011,118,Yemen
+YEM,2012,313,Yemen
+YEM,2013,435,Yemen
+YEM,2014,814,Yemen
+YEM,2015,818,Yemen
+YEM,2016,917,Yemen
+YEM,2017,531,Yemen
+YEM,2018,498,Yemen
+YEM,2019,795,Yemen
+YEM,2020,474,Yemen
+YEM,2021,290,Yemen
+ZAF,1974,1,South Africa
+ZAF,1976,1,South Africa
+ZAF,1977,15,South Africa
+ZAF,1978,9,South Africa
+ZAF,1979,16,South Africa
+ZAF,1980,23,South Africa
+ZAF,1981,42,South Africa
+ZAF,1982,26,South Africa
+ZAF,1983,56,South Africa
+ZAF,1984,60,South Africa
+ZAF,1985,106,South Africa
+ZAF,1986,159,South Africa
+ZAF,1987,133,South Africa
+ZAF,1988,245,South Africa
+ZAF,1989,149,South Africa
+ZAF,1990,154,South Africa
+ZAF,1991,127,South Africa
+ZAF,1992,271,South Africa
+ZAF,1994,174,South Africa
+ZAF,1995,32,South Africa
+ZAF,1996,47,South Africa
+ZAF,1997,17,South Africa
+ZAF,1998,6,South Africa
+ZAF,1999,17,South Africa
+ZAF,2000,21,South Africa
+ZAF,2002,8,South Africa
+ZAF,2007,2,South Africa
+ZAF,2008,1,South Africa
+ZAF,2012,4,South Africa
+ZAF,2013,13,South Africa
+ZAF,2014,20,South Africa
+ZAF,2015,5,South Africa
+ZAF,2016,27,South Africa
+ZAF,2017,29,South Africa
+ZAF,2018,41,South Africa
+ZAF,2019,23,South Africa
+ZAF,2020,17,South Africa
+ZAF,2021,15,South Africa
+ZMB,1971,1,Zambia
+ZMB,1973,1,Zambia
+ZMB,1975,1,Zambia
+ZMB,1977,1,Zambia
+ZMB,1978,3,Zambia
+ZMB,1979,1,Zambia
+ZMB,1981,1,Zambia
+ZMB,1985,1,Zambia
+ZMB,1986,1,Zambia
+ZMB,1987,1,Zambia
+ZMB,1988,5,Zambia
+ZMB,1989,18,Zambia
+ZMB,1990,4,Zambia
+ZMB,1995,1,Zambia
+ZMB,1996,4,Zambia
+ZMB,1999,7,Zambia
+ZMB,2000,8,Zambia
+ZMB,2002,1,Zambia
+ZMB,2017,2,Zambia
+ZMB,2021,1,Zambia
+ZWE,1980,14,Zimbabwe
+ZWE,1981,9,Zimbabwe
+ZWE,1982,12,Zimbabwe
+ZWE,1983,6,Zimbabwe
+ZWE,1984,3,Zimbabwe
+ZWE,1985,1,Zimbabwe
+ZWE,1986,1,Zimbabwe
+ZWE,1987,11,Zimbabwe
+ZWE,1988,1,Zimbabwe
+ZWE,1989,3,Zimbabwe
+ZWE,1990,6,Zimbabwe
+ZWE,1991,1,Zimbabwe
+ZWE,1992,1,Zimbabwe
+ZWE,1994,1,Zimbabwe
+ZWE,1995,2,Zimbabwe
+ZWE,2000,1,Zimbabwe
+ZWE,2001,3,Zimbabwe
+ZWE,2002,8,Zimbabwe
+ZWE,2003,1,Zimbabwe
+ZWE,2006,1,Zimbabwe
+ZWE,2007,1,Zimbabwe
+ZWE,2008,5,Zimbabwe
+ZWE,2010,1,Zimbabwe
+ZWE,2011,1,Zimbabwe
+ZWE,2013,3,Zimbabwe
+ZWE,2014,1,Zimbabwe
+ZWE,2017,3,Zimbabwe
+ZWE,2018,2,Zimbabwe
+ZWE,2019,2,Zimbabwe
+ZWE,2020,1,Zimbabwe
