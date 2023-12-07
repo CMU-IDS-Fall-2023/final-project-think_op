@@ -1,11 +1,10 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
-import altair as alt
+from statsmodels.tsa.statespace.sarimax import SARIMAX
+from pmdarima import auto_arima
 import pickle
-from lime.lime_tabular import LimeTabularExplainer
-
 import warnings
+
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 st.title("Model Time")
@@ -25,12 +24,8 @@ model_filename = 'data/sarimax_model.pkl'
 with open(model_filename, 'rb') as file:
     result = pickle.load(file)
 
-import streamlit as st
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from statsmodels.tsa.statespace.sarimax import SARIMAX
-from pmdarima import auto_arima
+
+
 
 # Sample DataFrame
 with open("data/df_model.pkl", 'rb') as file:
