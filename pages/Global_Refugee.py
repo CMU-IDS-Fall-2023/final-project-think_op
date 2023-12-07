@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-st.title("Analysis of Global Refugee Datatset")
+st.title("Analysis of Global Refugee Dataset")
 #st.markdown("Placeholder markdown")
 
 dataset = pd.read_csv(filepath_or_buffer='./data/population.csv', delimiter= ',')
@@ -95,7 +95,7 @@ df['Log scaled Refugees under UNHCR\'s mandate'] = np.log(df['Refugees under UNH
 grouped_data = df.groupby(['Country of origin', 'Country of asylum'])['Refugees under UNHCR\'s mandate'].sum().reset_index()
 #grouped_data = grouped_data.head(20)
 
-all_countries = list(set(grouped_data['Country of origin']).union(set(grouped_data['Country of asylum'])))
+all_countries = sorted(list(set(grouped_data['Country of origin']).union(set(grouped_data['Country of asylum']))))
 
 country_index = {country: idx for idx, country in enumerate(all_countries)}
 
@@ -112,6 +112,7 @@ selected_country_of_origin = st.selectbox('Select Country of Origin', all_countr
 # Filter and sort the data for the selected country
 filtered_data = grouped_data[grouped_data['Country of origin'] == selected_country_of_origin]
 sorted_data = filtered_data.sort_values(by='Refugees under UNHCR\'s mandate', ascending=False).head(max_flows)
+
 
 # Update the node and link information
 source = [country_index[selected_country_of_origin] for _ in range(len(sorted_data))]
