@@ -18,8 +18,9 @@ The past few years have been pretty shaky when it comes to world peace. Conflict
 We have put together an interactive webpage with Streamlit where anyone can play around with the data we've gathered. We designed several pages, each with its own goal and way to dive into the info. It's designed for people to explore and perhaps get a fresh angle on the whole situation with terrorism and refugees.
 
 ## Related Work
+Böhmelt, Bove, and Nussio 2019; Frey 2020; Legewie 2013; Rabby and Rogers 2010 have time and time again showed that even though there is little evidence to link refugees to terrorist attacks, terrorist attacks may increase the negative views on inmigrants. People incorrrectly assume that the more asylum seekers a country has, the more likely it is to have a terrorist attack. Nonetheless, few studies analyze the opposite relationship. Do terrorist attacks increase the number of asylum seekers? 
+Scimeca 2019 showed that people have fled war-torn and politically unstable countries, but these situations do not classify as terrorist attacks. We did not find any work which explicitly addresses how terrorism can affectt the number of asylum seekers in a given place in a give time period.
 
-TODO
 
 ## Methods
 
@@ -39,7 +40,8 @@ We have designed four pages in our interactive webpage. We will discuss the meth
   Additionally, our analysis extends to identifying the most common destinations or origins for refugees moving from or to the selected country. This aspect of the study helps ascertain if refugees tend to relocate to countries with fewer terrorist incidents, enhancing our understanding of their migration patterns.
 
 - Model:\
-    TODO
+    We will model the relationship bewteen refugees and terrorism. Our approach is to create a model that takes as inputs past refugee's data, terrorism attacks and predicts future refugees. What we did was create a model such that $f(refugee_{t-1},terrorism_{t}=refugee_t$, then this model would predict future refugee's trajectory by accounting for past behavour plus current terrorism. We endend up choosing a SARIMAX model, which models the refugees trajectory with an autoregresive model and takes in the terrorism data as exogenous variables. For terrorism data, we particularly select the number of people killed and wounded in a given year. We aggregate all of the terrorism and refugee's data, that means we will be interested in the overall worldwide trend, rather than per country. 
+
 
 ## Results
 
@@ -57,7 +59,7 @@ For each of the pages, we would discuss the results for each of them below:
   Additionally, our analysis indicates that in countries experiencing high levels of terrorism, refugees often seek asylum in nations with fewer terrorist incidents. Conversely, in countries where terrorist attacks are less frequent, this factor becomes less pivotal in influencing refugee destinations, pointing to other motivations behind their choice of asylum.
 
 - Model:\
-    TODO
+    Overall, We find that the impact of terrorism in the refugee's trajectory is very small. Given the past refugee's data, the terrorist data does not seem to alter the predictions by much. We find that The number of people killed due to terrorism, is posiively correlated with an increase in refugee's, nonetheless this result is very weak. 
 
 ## Discussion
 
@@ -72,3 +74,15 @@ Our analysis of the primary destinations and origins of refugees from specific c
 Looking ahead, our aim is to broaden our understanding of refugee movements by integrating additional datasets that provide deeper insights into the forces driving people to seek asylum. Enhanced monitoring and potentially predicting refugee flows could significantly aid in maintaining social stability and optimizing the distribution of humanitarian aid. As for terrorism, bringing in supplementary data, like the Human Development Index, might yield a more nuanced view of how terrorism affects various facets of societal progress.
 
 Moreover, expanding our analytical toolkit could enrich user interaction. Currently, our approach utilizes a basic ARIMA model for time-series forecasting. However, other advanced models like Prophet or LSTM offer promising alternatives for such analysis. We plan to introduce a variety of these models down the line, allowing users to compare their performance directly on our datasets.
+
+## References
+Böhmelt, Tobias, Vincenzo  Bove, and Enzo  Nussio. 2019. “Can Terrorism Abroad Influence Migration Attitudes at Home?” American Journal of Political Science  64(3):437–51.
+
+Frey, Arun. 2020. “‘Cologne Changed Everything’—The Effect of Threatening Events on the Frequency and Distribution of Intergroup Conflict in Germany.” European Sociological Review  36(5):684–99.
+Google ScholarFind in my libraryWorldCat
+
+Legewie, Joscha. 2013. “Terrorist Events and Attitudes toward Immigrants: A Natural Experiment.” American Journal of Sociology  118(5):1199–245.
+
+Rabby, Faisal, and William M.  III Rogers. 2010. “The Impact of 9/11 and the London Bombings on the Employment and Earnings of U.K. Muslims.” IZA Discussion Papers  4763:1–31.
+
+Scimeca, Taylor M. "The European Immigration Crisis: An Analysis of How Terror Attacks Have Affected Immigrant and Refugee Populations in Western Europe." Honors in the Major Program in Political Science, University of Central Florida, 2017.
