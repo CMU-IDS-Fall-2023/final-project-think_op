@@ -10,7 +10,7 @@
 
 ## Work distribution
 
-The work allowed for an even distribution. Moukhik was in charge of the refugee dataset. Prachiti was in charge of the terrorism dataset. Pochunch was in charge of the interaction between these two datasets. Gerardo was in charge of the modelling. We constantly reviewed each others work and provided timely feedback to further iterate and improve our work. 
+The work allowed for an even distribution. Moukhik was in charge of the refugee dataset. Prachiti was in charge of the terrorism dataset. Pochun was in charge of the interaction between these two datasets. Gerardo was in charge of the modelling. We constantly reviewed each others work and provided timely feedback to further iterate and improve our work. 
 
 
 ## Deliverables
