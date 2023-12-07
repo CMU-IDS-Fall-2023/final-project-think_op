@@ -30,8 +30,13 @@ We have designed four pages in our interactive webpage. We will discuss the meth
     TODO
 
 - Global Refugee:\
-    TODO
+In order to effectively illustrate the trends and shifts in the global refugee population under the United Nations High Commissioner for Refugees (UNHCR) mandate, we will employ a line chart. This chart will span from 1970 to 2021, providing a comprehensive visual representation of the data. This approach allows for a clear and detailed examination of the changes in refugee numbers over the specified time period. We allow interactivity in tis chart by enabling user to select their desired year range form 1970-2021
 
+Next, we observe for a particular year, the countries producing the most number of refugees, by means of a bar chart. We allow the user to select the number of countries they wish to visualize as well as the year for which they want to observe the trend for origin countries of refugees. This is done by means of sliders in Streamlit. We employ the same method and bar chart for visualizing the countries of Asylum for Refugees. Similar to the previous bar chart, we also allow users to select the number of entires and the year they wish to view the results for.
+
+Finally, to visualize the refugee flows from a particular origin country for a particular year, we implement a Sankey chart. This chart represents the number of refugees from a country of origin that are presenlty in Asylum in the target country. In this chart, the users can select the year, the country, as well as the number of flows to visualize.
+
+We also visulaize the 
 - Combined:\
   By integrating the Global Terrorism dataset with the Global Refugee dataset, based on the same countries and years, we're able to perform a comprehensive combined analysis. Initially, we filter for countries present in both datasets, addressing discrepancies such as nations that no longer exist, are not widely recognized, or are specific regions within a country. To standardize country names that might slightly vary (e.g., "US" vs. "United States of America"), we utilized the pycountry library, referring to countries by their ISO codes.
 
@@ -51,7 +56,17 @@ For each of the pages, we would discuss the results for each of them below:
     TODO
 
 - Global Refugee:\
-    TODO
+In this project
+![Alt text](Refugee_Res1.png)
+
+
+![Alt text](Refugee_Res2.png) 
+
+![Alt text](Refugee_Res3.png) 
+
+![Alt text](Refugee_Res4.png) 
+
+From our exploration of the 
 
 - Combined:\
   Our findings reveal that there's no one-size-fits-all answer when it comes to the relationship between terrorist attacks and refugee movements. The correlation varies significantly from country to country, and the selected time period also greatly influences the correlation coefficient. Contrary to the common belief that refugees might increase the incidence of terrorist attacks in their destination countries, our data does not universally support this claim. Indeed, while some countries show a slight positive correlation between refugee influx and terrorist attacks, many others exhibit little or even negative correlation. This suggests that other factors, such as religious demographics, age and gender composition, and socio-cultural differences between origin and destination countries, might play a crucial role in this complex dynamic.
