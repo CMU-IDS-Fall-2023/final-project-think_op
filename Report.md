@@ -70,7 +70,7 @@ In the bar chart above, we observe the countires of asylum fro refugees in the y
 
 ![Alt text](images/Refugee_Res4.png) 
 
-The sankey chart above visualizes the number of refugees from Afghanistan that have found asylum in target countries in 2021. We can observe that most refugees from Afghanistan have fled to Pakistan or Iran for asylum. If we consider the case fo Syria (not in the above fig), most refugees seek asylum in Turkey followed by Lebanon(2021)This seems to suggest that most refugees flee to neighboring countries.
+The sankey chart above visualizes the number of refugees from Afghanistan that have found asylum in target countries in 2021. We can observe that most refugees from Afghanistan have fled to Pakistan or Iran for asylum. If we consider the case fo Syria (not in the above fig), most refugees seek asylum in Turkey followed by Lebanon (in 2021). This seems to suggest that most refugees flee to neighboring countries.
 
 From our exploration of the 
 
