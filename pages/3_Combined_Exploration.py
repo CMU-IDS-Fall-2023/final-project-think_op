@@ -16,7 +16,7 @@ st.markdown("""
     <style>
     .big-font {
         font-size:32px !important;
-        color: black !important;
+        color: yellow !important;
     }
     </style>
     
@@ -144,7 +144,7 @@ st.markdown("""
     <style>
     .big-font {
         font-size:32px !important;
-        color: black !important;
+        color: yellow !important;
     }
     </style>
     
