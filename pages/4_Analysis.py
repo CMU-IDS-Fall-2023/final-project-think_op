@@ -93,7 +93,7 @@ st.table(table_data)
 
 image_filename = 'data/Kmeans.png'
 st.title("Time Series Clustering")
-st.markdown("We want to explore how the terrorism bevahves in different countries."+
+st.markdown("We want to explore how the terrorism behaves in different countries."+
             " For this purpose we agregate the number of casualties per country. We then"+
             " create k clusters using K-means. This groups indicate similar terrorism behaviour across countries."+
             "K is calculated via the silhouette method. We finally plot the results in a biplot, which resembles the original space with high accuracy."+
