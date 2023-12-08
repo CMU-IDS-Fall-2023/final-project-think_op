@@ -55,7 +55,7 @@ st.write("Time filter has been set to:", min(filtered_years0),"-",max(filtered_y
 st.write("Country filter has been set to:", filtered_country0 )
 st.write("Terrorist Group filter has been set to:", filtered_gname0 )
 
-# DONE: Line graph for terrorist incidents over years (Filter for years and country)
+# DONE: Line graph for terrorist incidents over years
 
 st.header("Overall Statistics")
 st.subheader("Terrorist incidents over years (filtered on country)")
@@ -69,19 +69,18 @@ st.altair_chart(line1, use_container_width=True, theme="streamlit")
 st.write(num_killed, " people were killed in ", country_insert, " by ", tg_insert," in the time frame ",min(filtered_years0),"-",max(filtered_years0),".")
 st.write("There was a sharp increase in the number of terrorist incidents in the past decade.")
 
-#DONE: Line plot with nkill filtered by gname
+#DONE: Line plot with nkill
 st.subheader("Fatalities over the years (filtered by country and terrorist group)")
 
 df_perp2 = df_c_g.groupby(['iyear'])['nkill'].sum().reset_index()
 
-#st.table(df_perp2)
 line2 = alt.Chart(df_perp2).mark_line().encode(
    alt.X("iyear:O",bin=False,title="Year"),
    alt.Y("nkill",title="Number of People killed"),
 )
 st.altair_chart(line2, use_container_width=True, theme="streamlit")
 
-#DONE Map with nkill (Filter on year)
+#DONE Map with nkill
 st.subheader("Geospatial mapping of Number of incidents (filtered by country and terrorist group)")
 
 st.map(df_c_g, latitude='latitude', longitude='longitude')
@@ -90,7 +89,7 @@ st.map(df_c_g, latitude='latitude', longitude='longitude')
 
 st.header("Targets of Attacks")
 
-#DONE: Bar plot for top countries with highest number of attacks (Filter on number and year range)
+#DONE: Bar plot for top countries with highest number of attacks 
 st.subheader("Most victimised countries (filtered on number of values shown and terrorist group)")
 
 number_of_values1 = st.number_input("Number of top victim countries (1-30):",
@@ -128,7 +127,7 @@ st.plotly_chart(fig_target)
 
 st.header("Perpetrators of Attacks")
 
-#DONE: Bar plot for top perpetrator organizations with highest number of attacks (Filter on number and year range)
+#DONE: Bar plot for top perpetrator organizations with highest number of attacks 
 st.subheader("Most active terrorist groups (filtered on number of values shown and country)")
 
 number_of_values2 = st.number_input("Number of top perpetrator groups (1-30):",
@@ -191,7 +190,7 @@ st.image(wordcloud_image, use_column_width=True)
 
 st.header("Details of Attacks")
 
-#DONE Bar plot for top types of attacks by number of casualties (Filter on number and year range)
+#DONE Bar plot for top types of attacks by number of casualties 
 st.subheader("Types of attacks (filtered by country and terrorist group)")
 
 df_perp3= df_c_g.groupby('attacktype1_txt')['nkill'].count().sort_values(ascending=False).head(10)
