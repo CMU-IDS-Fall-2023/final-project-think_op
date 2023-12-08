@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/NxMd-3_v)
 # CMU Interactive Data Science Final Project
 
-* **Online URL**: Did not deploy
+* **Online URL**: https://github.com/CMU-IDS-Fall-2023/final-project-think_op
 * **Video URL**: https://www.youtube.com/watch?v=rWnOIYlkeDU
 * **Team members**:
   * Contact person: moukhikm@andrew.cmu.edu
