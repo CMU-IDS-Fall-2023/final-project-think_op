@@ -1,6 +1,6 @@
 # Final Project Report
 
-**Project URL**: Did not deploy
+**Project URL**: https://github.com/CMU-IDS-Fall-2023/final-project-think_op
 **Video URL**: https://www.youtube.com/watch?v=rWnOIYlkeDU
 
 This project seeks to decipher the complex relationship between terrorism and refugee movements, utilizing comprehensive data from the Global Terrorism Database and UN Refugee Data. The former encompasses 214,668 records from 1970 to mid-2021, cataloging terrorist incidents with detailed attributes including location, casualties, and motives. Conversely, the UN Refugee Data chronicles annual refugee figures, specifying their countries of origin and destinations for asylum.
