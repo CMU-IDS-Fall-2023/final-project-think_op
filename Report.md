@@ -1,9 +1,9 @@
 # Final Project Report
 
-**Project URL**: TODO
-**Video URL**: TODO
+**Project URL**: Did not deploy
+**Video URL**: https://www.youtube.com/watch?v=rWnOIYlkeDU
 
-This project seeks to decipher the complex relationship between terrorism and refugee movements, utilizing comprehensive data from the Global Terrorism Database and UN Refugee Data. The former encompasses over 200,000 records from 1970 to 2021, cataloging terrorist incidents with detailed attributes including location, casualties, and motives. Conversely, the UN Refugee Data chronicles annual refugee figures, specifying their countries of origin and destinations for asylum.
+This project seeks to decipher the complex relationship between terrorism and refugee movements, utilizing comprehensive data from the Global Terrorism Database and UN Refugee Data. The former encompasses 214,668 records from 1970 to mid-2021, cataloging terrorist incidents with detailed attributes including location, casualties, and motives. Conversely, the UN Refugee Data chronicles annual refugee figures, specifying their countries of origin and destinations for asylum.
 
 The principal aim is to analyze the progression of terrorist activities over time and across regions and to investigate any potential correlation between the incidence of terrorism and the patterns of refugee migration. We hypothesize a direct link between regional terrorism rates and the resultant movements of refugees. Integrating these datasets allows us to conduct a thorough exploration and time-series analysis, aligning the information based on country and date.
 
@@ -18,9 +18,10 @@ The past few years have been pretty shaky when it comes to world peace. Conflict
 We have put together an interactive webpage with Streamlit where anyone can play around with the data we've gathered. We designed several pages, each with its own goal and way to dive into the info. It's designed for people to explore and perhaps get a fresh angle on the whole situation with terrorism and refugees.
 
 ## Related Work
+
 Böhmelt, Bove, and Nussio 2019; Frey 2020; Legewie 2013; Rabby and Rogers 2010 have time and time again showed that even though there is little evidence to link refugees to terrorist attacks, terrorist attacks may increase the negative views on inmigrants. People incorrrectly assume that the more asylum seekers a country has, the more likely it is to have a terrorist attack. Nonetheless, few studies analyze the opposite relationship. Do terrorist attacks increase the number of asylum seekers? 
 
-Scimeca 2019 showed that people have fled war-torn and politically unstable countries, but these situations do not classify as terrorist attacks. We did not find any work which explicitly addresses how terrorism can affectt the number of asylum seekers in a given place in a give time period.
+Scimeca 2019 showed that people have fled war-torn and politically unstable countries, but these situations do not classify as terrorist attacks. We did not find any work which explicitly addresses how terrorism can affect the number of asylum seekers in a given place in a give time period.
 
 
 ## Methods
@@ -28,10 +29,12 @@ Scimeca 2019 showed that people have fled war-torn and politically unstable coun
 We have designed four pages in our interactive webpage. We will discuss the methods used in each of the pages below:
 
 - Global Terrorism:\
-    TODO
+    To observe the patterns in the Global Terrorism Database, we have nine visualizations in the dashboard. We provide filters on the left sidebar for range of years with a slider, and for victim country and the culprit terrorist groups with dropdowns. The year filter is applied to all visualizations whereas the country and terrorist group filters are applied to plots where applicable. For the follwoing description, assume that all three filters are applied, unless otherwise stated. the reason we have included the country and terrorist group filters is to observe the connections between the two. The dashboard is divided into four sections: Overall statistics, Targets of attacks, Perpetrators of attacks, and Details of the attacks. 
+    
+    In the overall statistics section, we have line charts for total number of incidents filtered on country and number of people killed. We also have a map which shows the points of terrorist attacks in red. The size of the points is not proportional to the number of people killed. Under targets of attacks, we have a bar plot which shows the top countries with the most number of terrorist attacks. It can be filtered by the terrorist groups and also enables changing the number of top countries we see. Then a sunburst chart shows the types of targets (e.g. businesses). The perpetrators of attacks can be examined with a bar plot showing the most "active" terrorist groups filtered on country and number of values shown. The motive column in GTD contains text descriptions, so an easy way to get a gist of the motives behind the attacks is with a word cloud. The details of the attacks section has two visualizations, a bar plot which shows the top types of attacks (e.g. bombing) by the terrorists, and a sunburst chart for the types of weapons used. 
 
 - Global Refugee:\
-    In order to effectively illustrate the trends and shifts in the global refugee population under the United Nations High Commissioner for Refugees (UNHCR) mandate, we will employ a line chart. This chart will span from 1970 to 2021, providing a comprehensive visual representation of the data. This approach allows for a clear and detailed examination of the changes in refugee numbers over the specified time period. We allow interactivity in tis chart by enabling user to select their desired year range form 1970-2021
+    In order to effectively illustrate the trends and shifts in the global refugee population under the United Nations High Commissioner for Refugees (UNHCR) mandate, we will employ a line chart. This chart will span from 1970 to 2021, providing a comprehensive visual representation of the data. This approach allows for a clear and detailed examination of the changes in refugee numbers over the specified time period. We allow interactivity in tis chart by enabling user to select their desired year range from 1970-2021.
 
     Next, we observe for a particular year, the countries producing the most number of refugees, by means of a bar chart. We allow the user to select the number of countries they wish to visualize as well as the year for which they want to observe the trend for origin countries of refugees. This is done by means of sliders in Streamlit. We employ the same method and bar chart for visualizing the countries of Asylum for Refugees. Similar to the previous bar chart, we also allow users to select the number of entires and the year they wish to view the results for.
 
@@ -54,10 +57,30 @@ We have designed four pages in our interactive webpage. We will discuss the meth
 For each of the pages, we would discuss the results for each of them below:
 
 - Global Terrorism:\
-    TODO
+We observe in the following line chart that the number of terrorist incidents has been much higher in the last decade than the years before. 
+
+![Line chart](images/GTD_P1.png)
+
+Around 474,024 people were killed in the world by terrorist attacks between 1970-2021.
+
+![Map](images/GTD_P2.png)
+
+The above map shows that the terrorist attacks have occured all over the globe. Even the developed countries show a surprisingly high number of attacks. In this map we can see where the different groups operate. For e.g. Taliban is only active in Afghanistan, whereas groups such as Al-Qaeda and ISIL (ISIS) have conducted terrorist attacks in a variety of places (e.g. France).
+
+![Bar chart of targets](images/GTD_P3.png)
+
+The above bar chart shows that Iraq, Afghanistan, Pakistan, India, and Colombia are the countries where the most number of terrorist incidents occured. 
+
+![Sunburst chart](images/GTD_P5.png)
+
+From the sunburst chart, we see that overall, the most number of attacks have occured on Military, Police, Private citizens/properties, government buildings, and businesses. We observe some interesting patterns by using the filters here. For e.g. US has a huge category called "Abortion related" where terrorist attacks have been done on abortion clinics and employees. It is not something that is seen in most other countries. In Israel, we see that highest number of attacks have been done on private citizens and properties.
+
+![Bar chart of perpetrators](images/GTD_P4.png)
+
+In the bar plot above, we see that a huge chunk of the terrorist incidents have been carried out by unknown terrorists, which indicates that law enforcement and investigation agencies need to improve their performance. In the solved cases, the top perpetrators are Taliban and ISIL.
 
 - Global Refugee:\
-    We visualize the trends in the Global Refugee Dataset by means of line chart, bar chart and sankey chart.
+We visualize the trends in the Global Refugee Dataset by means of line chart, bar chart and sankey chart.
 
 ![Alt text](images/Refugee_Res1.png)
 
